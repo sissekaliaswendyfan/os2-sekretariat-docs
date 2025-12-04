@@ -12,7 +12,7 @@ Afsnittet fokuserer på vores principper og arbejdsgange – altså hvordan vi o
 
 
 {: .cta}
-🛠️ **Skal du løse en opgave nu?** Brug **[Værktøjskassen](./product_toolbox)** til *Trin for trin*, værktøjer og skabeloner.
+🛠️ **Skal du løse en opgave nu?** Brug **[Værktøjskassen](./product_toolbox)** til Trin for trin-guides, værktøjer og skabeloner.
 
 
 
