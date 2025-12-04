@@ -2,7 +2,9 @@
 title: Struktur for tidsregistrering
 layout: default
 parent: Processer og rutiner
-nav_order: 4
+grand_parent: Sådan arbejder vi i OS2
+nav_order: 40
+has_toc: false
 ---
 
 # Struktur for tidsregistrering
