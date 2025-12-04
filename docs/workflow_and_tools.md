@@ -6,12 +6,12 @@ nav_order: 4
 
 # Sådan arbejder vi i OS2 <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
 
-> 🔎 **Overblik:** Rammer for forløb, roller og beslutningspunkter på tværs af OS2.  
-> 🛠️ **Skal du løse en opgave nu?** Brug **[Værktøjskassen](./product_toolbox)** til *Trin for trin*, værktøjer og skabeloner.
-{: .tip}
-
 Her beskriver vi, hvordan vi arbejder sammen i OS2-sekretariatet: hvilke værktøjer, metoder og mødeformer vi bruger til at skabe fælles struktur, samarbejde og dokumentation.
 Afsnittet fokuserer på vores principper og arbejdsgange – altså hvordan vi organiserer, prioriterer og træffer beslutninger på tværs af fællesskabet.
+
+
+> 🛠️ **Skal du løse en opgave nu?** Brug **[Værktøjskassen](./product_toolbox)** til *Trin for trin*, værktøjer og skabeloner.
+{: .tip}
 
 
 ## Samarbejdsformer {#samarbejdsformer}
