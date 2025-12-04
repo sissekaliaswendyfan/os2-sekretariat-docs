@@ -1,7 +1,8 @@
 ---
 title: Processer og rutiner
 layout: default
-nav_order: 5
+parent: Sådan arbejder vi i OS2
+nav_order: 20
 has_children: true
 has_toc: false
 ---
