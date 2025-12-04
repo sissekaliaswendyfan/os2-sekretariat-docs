@@ -1,14 +1,25 @@
 title: Håndbog til OS2-fællesskabet
 description: Praktiske rutiner, værktøjer og principper i OS2 og sekretariatet.
-theme: just-the-docs
 logo: "/assets/images/os2_logo.png"
 
+# --- Tema / build ---
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# --- Integrations ---
 mermaid:
-  # Version of mermaid library
-  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "11.9.0"
 
 aux_links:
   Repository: https://github.com/zorp/os2-sekretariat-docs
   Maintainers: ./MAINTAINERS
   Contribute: ./CONTRIBUTING
+
+# --- UI-komponenter (Just the Docs) ---
+callouts_level: quiet       # quiet/loud
+callouts_opacity: 0.2       # 0.0–1.0 (0.2 er fint)
+callouts:
+  cta:                      # Bruges sådan i Markdown: "{: .cta}"
+    color: os2green         # Farven defineres i _sass/custom/setup.scss
+    # title: ""             # (valgfri) Sæt titel, hvis du vil have overskrift i boksen

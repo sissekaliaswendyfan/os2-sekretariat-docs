@@ -10,8 +10,10 @@ Her beskriver vi, hvordan vi arbejder sammen i OS2-sekretariatet: hvilke værkt�
 Afsnittet fokuserer på vores principper og arbejdsgange – altså hvordan vi organiserer, prioriterer og træffer beslutninger på tværs af fællesskabet.
 
 
-> 🛠️ **Skal du løse en opgave nu?** Brug **[Værktøjskassen](./product_toolbox)** til *Trin for trin*, værktøjer og skabeloner.
-{: .tip}
+
+{: .cta}
+🛠️ **Skal du løse en opgave nu?** Brug **[Værktøjskassen](./product_toolbox)** til *Trin for trin*, værktøjer og skabeloner.
+
 
 
 ## Samarbejdsformer {#samarbejdsformer}
