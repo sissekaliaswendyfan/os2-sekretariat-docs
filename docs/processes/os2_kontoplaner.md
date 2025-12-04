@@ -2,7 +2,9 @@
 title: Økonomi og kontoplaner
 layout: default
 parent: Processer og rutiner
-nav_order: 3
+grand_parent: Sådan arbejder vi i OS2
+nav_order: 30
+has_toc: false
 ---
 
 # Økonomi i OS2

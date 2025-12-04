@@ -2,7 +2,9 @@
 title: Fakturagodkender
 layout: default
 parent: Processer og rutiner
-nav_order: 2
+grand_parent: Sådan arbejder vi i OS2
+nav_order: 20
+has_toc: false
 ---
 
 # Oversigt over hvem der godkender regninger
