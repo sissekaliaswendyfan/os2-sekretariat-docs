@@ -3,9 +3,7 @@ description: Praktiske rutiner, værktøjer og principper i OS2 og sekretariatet
 logo: "/assets/images/os2_logo.png"
 
 # --- Tema / build ---
-remote_theme: just-the-docs/just-the-docs
-plugins:
-  - jekyll-remote-theme
+theme: just-the-docs 
 
 # --- Integrations ---
 mermaid:
@@ -16,10 +14,10 @@ aux_links:
   Maintainers: ./MAINTAINERS
   Contribute: ./CONTRIBUTING
 
-# --- UI-komponenter (Just the Docs) ---
-callouts_level: quiet       # quiet/loud
-callouts_opacity: 0.2       # 0.0–1.0 (0.2 er fint)
+# UI-komponenter (Just the Docs)
+callouts_level: quiet
+callouts_opacity: 0.2
+
 callouts:
-  cta:                      # Bruges sådan i Markdown: "{: .cta}"
-    color: os2green         # Farven defineres i _sass/custom/setup.scss
-    # title: ""             # (valgfri) Sæt titel, hvis du vil have overskrift i boksen
+  cta:          # så kan du skrive "{: .cta}" i Markdown
+    color: os2green
