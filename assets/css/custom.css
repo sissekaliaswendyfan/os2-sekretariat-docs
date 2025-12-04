@@ -1,0 +1,6 @@
+/* Callout i OS2-grøn */
+.callout.tip {
+  --callout-color: #619962;
+  --callout-border-left: 0.25rem solid var(--callout-color);
+  --callout-bg: color-mix(in srgb, var(--callout-color) 8%, #fff);
+}
