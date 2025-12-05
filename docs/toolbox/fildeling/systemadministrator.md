@@ -37,5 +37,5 @@ Tak fordi du holder hjulene i gang. Her er den korte version af det, nye admins 
 
 
 {: .cta}
-📚 Skal du bruge overblik frem for værktøj? Gå til **[Sådan arbejder vi i OS2](../workflow_and_tools.md)**.
+📚 Skal du bruge overblik frem for værktøj? Gå til **[Sådan arbejder vi i OS2](.../workflow_and_tools.md)**.
 
