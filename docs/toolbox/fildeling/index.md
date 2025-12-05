@@ -11,8 +11,6 @@ has_children: true
 
 Her får du et hurtigt overblik over fildeling i OS2 (Nextcloud): Hvem kan få adgang, hvordan du kommer i gang, og god praksis.
 
-{: .cta}
-🛠️ **Skal du i gang nu?** Brug “Find hurtigt” eller vælg et emne i menuen til venstre.
 
 **Denne side er især relevant for:**
 
@@ -29,6 +27,12 @@ Her får du et hurtigt overblik over fildeling i OS2 (Nextcloud): Hvem kan få a
 - **Rettigheder** → [Hvem kan tilgå hvad](./rettigheder)
 - **Systemadministrator** → [Opgaver & standardadgang](./systemadministrator)
 - **Support** → [Kontakt & fejlretning](./support)
+
+
+{: .cta}
+📚 Skal du bruge overblik frem for værktøj? Gå til **[Sådan arbejder vi i OS2](../workflow_and_tools.md)**.
+
+
 
 
 > 🙌 **Bidrag gerne:** Mangler der noget? Opret et issue eller foreslå en ændring.  
