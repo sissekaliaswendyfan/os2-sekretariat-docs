@@ -3,6 +3,7 @@ title: "Kom i gang: Få oprettet bruger"
 layout: default
 parent: Fildeling
 grand_parent: Værktøjskasse til projekter og produkter
+has_toc: false
 nav_order: 30
 ---
 
@@ -41,4 +42,3 @@ Du bør nu kunne skrive i:
 
 **Næste skridt:** [Sådan bruger vi Nextcloud](./saadan-bruger-vi-nextcloud)
 
-[← Til Fildeling](./) · [← Til værktøjskassen](../product_toolbox)
