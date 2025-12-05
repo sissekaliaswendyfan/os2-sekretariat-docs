@@ -6,12 +6,12 @@ grand_parent: Værktøjskasse til projekter og produkter
 nav_order: 30
 ---
 
-# Kom i gang: Opret bruger
+# Kom i gang: Opret bruger 🚶‍♀️
 
 Her kan du se, hvordan du får en bruger til Nextcloud.  
 Vær opmærksom på, at processen er **manuel** og håndteres af OS2-sekretariatet – der kan derfor gå lidt tid, før din adgang er klar.
 
-## Trin for trin
+## Trin for trin ▶️
 
 **0. Forbered info**  
 Find følgende oplysninger frem: dit navn, din e-mail (bliver dit login), hvilken arbejdsgruppe du er en del af, og din rolle.
