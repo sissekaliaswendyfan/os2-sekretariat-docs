@@ -6,7 +6,7 @@ grand_parent: Værktøjskasse til projekter og produkter
 nav_order: 10
 ---
 
-# Nextcloud – hvad er det?
+# Nextcloud – hvad er det? ☁️
 
 Tænk på Nextcloud som OS2-fællesskabets fælles drev i skyen. Her kan vi arbejde samtidig i dokumenter, styre adgang med grupper og bevare ejerskab over data.  
 
@@ -14,8 +14,8 @@ Nextcloud er den konkrete fildelingstjeneste, vi bruger i OS2. I daglig tale kal
 
 ## De to områder, vi bruger
 
-- **OS2 Intern Nextcloud** – arbejdsrum til kladder, udkast og ting i proces  
-- **OS2 Ekstern/offentlig Nextcloud** – det, der er færdigt og må deles bredt
+- **📁 OS2's Intern Nextcloud** – arbejdsrum til kladder, udkast og ting i proces  
+- **🌐 OS2's Eksterne/offentlig Nextcloud** – det, der er færdigt og må deles bredt
 
 ## Filformater (åbne formater / ODF)
 
