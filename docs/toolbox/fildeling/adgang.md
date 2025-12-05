@@ -3,6 +3,7 @@ title: Hvem kan få adgang?
 layout: default
 parent: Fildeling
 grand_parent: Værktøjskasse til projekter og produkter
+has_toc: false
 nav_order: 20
 ---
 
