@@ -41,4 +41,4 @@ Når noget er færdigt og klar til at blive delt bredt, anbefaler vi, at du **ek
 - Officiel Nextcloud: \[nextcloud.com/](https://nextcloud.com/) 
 - Bidrag til Nextcloud: \[contribute/](https://nextcloud.com/contribute/)
 
-[← Til Fildeling](./index) · [← Til værktøjskassen](./product-toolbox)
+
