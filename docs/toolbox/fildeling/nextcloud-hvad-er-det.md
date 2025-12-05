@@ -38,7 +38,7 @@ Når noget er færdigt og klar til at blive delt bredt, anbefaler vi, at du **ek
 
 **Links**
 
-- Officiel Nextcloud: \[indsættes\]  
-- Bidrag til Nextcloud: \[indsættes\]
+- Officiel Nextcloud: \[nextcloud.com/](https://nextcloud.com/) 
+- Bidrag til Nextcloud: \[contribute/](https://nextcloud.com/contribute/)
 
-[← Til Fildeling](./index.html) · [← Til værktøjskassen](../feature/product-toolbox.html)
+[← Til Fildeling](./index) · [← Til værktøjskassen](./product-toolbox)
