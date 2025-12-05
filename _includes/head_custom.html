@@ -1,0 +1,28 @@
+<!-- Preload Inter (variable) -->
+<link rel="preload"
+      href="{{ '/assets/fonts/inter/Inter-Variable.woff2' | relative_url }}"
+      as="font" type="font/woff2" crossorigin>
+<link rel="preload"
+      href="{{ '/assets/fonts/inter/Inter-Variable-Italic.woff2' | relative_url }}"
+      as="font" type="font/woff2" crossorigin>
+
+<style>
+/* Inter – Variable setup (normal + italic) */
+@font-face{
+  font-family: 'Inter';
+  src: url('{{ "/assets/fonts/inter/Inter-Variable.woff2" | relative_url }}') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face{
+  font-family: 'Inter';
+  src: url('{{ "/assets/fonts/inter/Inter-Variable-Italic.woff2" | relative_url }}') format('woff2');
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* (valgfrit) en anelse bedre rendering af variable font */
+html { font-variation-settings: "opsz" 14; }
+</style>
