@@ -6,9 +6,12 @@ grand_parent: Værktøjskasse til projekter og produkter
 nav_order: 20
 ---
 
-# Hvem kan få adgang?
+# Hvem kan få adgang? 🔐
 
-Kort sagt: **arbejdsgruppemedlemmer** kan få brugerkonto og skriveadgang til projektets/produktets egne mapper i det interne filarkiv.  
+Kort sagt: 
+
+**Arbejdsgruppemedlemmer** kan få brugerkonto og skriveadgang til projektets/produktets egne mapper i det interne filarkiv.
+
 **Kontaktpersoner uden for arbejdsgrupper** får som udgangspunkt **ikke** konto.
 
 Kontaktpersoner og andre interesserede finder materialet via produktets dokumentationssite eller i det offentlige filbibliotek (OS2 Ekstern/offentlig).
@@ -40,9 +43,9 @@ Det gør det nemt at:
 2. publicere direkte til det åbne filarkiv for produktet, når noget er klar til deling
 
 > 💡 **Brug for adgang?**  
-> Start her: [Kom i gang: Opret bruger](./opret-bruger.html)  
+> Start her: [Kom i gang: Opret bruger](./opret-bruger)  
 >
 > 🔁 **Vil du ændre eller ophæve en adgang?**  
-> Se **Kontakt & support** \[link indsættes\].
+> Se **[Kontakt & support](./support)**
 
-[← Til Fildeling](./index.html) · [← Til værktøjskassen](../feature/product-toolbox.html)
+[← Til Fildeling](./index) · [← Til værktøjskassen](../feature/product-toolbox)
