@@ -1,3 +1,11 @@
+---
+title: Hvem kan få adgang?
+layout: default
+parent: Fildeling
+grand_parent: Værktøjskasse til projekter og produkter
+nav_order: 20
+---
+
 # Hvem kan få adgang?
 
 Kort sagt: **arbejdsgruppemedlemmer** kan få brugerkonto og skriveadgang til projektets/produktets egne mapper i det interne filarkiv.  
