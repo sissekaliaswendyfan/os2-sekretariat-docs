@@ -4,3 +4,14 @@ $os2green-100: #B0CCB1; // 40%
 $os2green-200: #89B289; // 60%
 $os2green-300: #3A7F3B; // 100% — kant/titel
 /* 80% (#619962) er ikke nødvendig for callouts, men kan bruges ved behov */
+
+/* Basis-skrifttype for hele sitet */
+$body-font-family:
+  "Inter",
+  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+  "Noto Sans", "Liberation Sans", sans-serif;
+
+/* (valgfrit) monospace-stak */
+$mono-font-family:
+  ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+  "Liberation Mono", "Courier New", monospace;
