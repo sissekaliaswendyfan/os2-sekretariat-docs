@@ -21,5 +21,6 @@ Værktøjskassen er især til dig, der:
 ## Find hurtigt
 - 📂 **Fildeling (Nextcloud)** – [overblik & genveje](/docs/toolbox/fildeling/)
 
+
 > 🙌 **Bidrag gerne:** Mangler der noget, så opret et issue eller foreslå en ændring.
 {: .note }
