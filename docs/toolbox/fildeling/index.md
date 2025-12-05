@@ -6,7 +6,7 @@ nav_order: 10
 has_children: true
 ---
 
-# Fildeling <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
+# Fildeling 📂 <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
 
 Her får du et hurtigt overblik over fildeling i OS2 (Nextcloud): Hvem kan få adgang, hvordan du kommer i gang, og god praksis.
 
