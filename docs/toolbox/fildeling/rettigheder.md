@@ -1,6 +1,7 @@
 ---
 title: Rettigheder – hvem kan tilgå hvad?
 layout: default
+has_toc: false
 parent: Fildeling
 grand_parent: Værktøjskasse til projekter og produkter
 nav_order: 60
@@ -28,5 +29,3 @@ Det gør det let at:
 
 > 🔐 **Særlige behov** (fx midlertidige eksterne konsulenter) kan aftales og tidsbegrænses.  
 > \[Afventer beslutning: detaljeret praksis for eksterne konsulenter\]
-
-[← Til Fildeling](./index.html) · [← Til værktøjskassen](../feature/product-toolbox.html)

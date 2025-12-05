@@ -15,8 +15,8 @@ Nextcloud er den konkrete fildelingstjeneste, vi bruger i OS2. I daglig tale kal
 
 ## De to områder, vi bruger
 
-- **📁 OS2's Intern Nextcloud** – arbejdsrum til kladder, udkast og ting i proces  
-- **🌐 OS2's Eksterne/offentlig Nextcloud** – det, der er færdigt og må deles bredt
+- **📁 OS2's interne Nextcloud** – arbejdsrum til kladder, udkast og ting i proces  
+- **🌐 OS2's eksterne/offentlige Nextcloud** – det, der er færdigt og bør deles bredt
 
 ## Filformater (åbne formater / ODF)
 
@@ -34,11 +34,16 @@ Du kan også opbevare andre filformater i Nextcloud, hvis der er behov for det.
 **Ekstern/offentlig Nextcloud**  
 Når noget er færdigt og klar til at blive delt bredt, anbefaler vi, at du **eksporterer til PDF**. Det øger chancen for, at modtageren ser det samme som dig – uanset program og platform.
 
+**Du kan se den eksterne/offentlige Nextcloud - altså det åbne filarkiv - ved at klikke på knappen lige her: 
+
+[OS2's åbne filarkiv](https://boks.os2.eu/s/Di5cTQdSABd6ak4){: .btn .btn-outline }
+
+
 ---
 
 **Links**
 
-- Officiel Nextcloud: \[indsættes\]  
-- Bidrag til Nextcloud: \[indsættes\]
+- Officiel Nextcloud: \[nextcloud.com/](https://nextcloud.com/) 
+- Bidrag til Nextcloud: \[contribute/](https://nextcloud.com/contribute/)
 
-[← Til Fildeling](./index.html) · [← Til værktøjskassen](../feature/product-toolbox.html)
+

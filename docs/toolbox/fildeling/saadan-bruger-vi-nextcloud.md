@@ -3,6 +3,7 @@ title: Sådan bruger vi Nextcloud
 layout: default
 parent: Fildeling
 grand_parent: Værktøjskasse til projekter og produkter
+has_toc: false
 nav_order: 50
 ---
 
@@ -69,5 +70,3 @@ Hold det enkelt og genkendeligt. Følg disse principper:
 
 > 💡 **Lille vane, stor effekt:**  
 > Sæt dato i filnavnet, når noget er endeligt (fx `2025-01-12_oplaeg_v1.pdf`).
-
-[← Til Fildeling](./index.html) · [← Til værktøjskassen](../feature/product-toolbox.html)

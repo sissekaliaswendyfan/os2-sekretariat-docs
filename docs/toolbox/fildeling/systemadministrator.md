@@ -35,4 +35,7 @@ Tak fordi du holder hjulene i gang. Her er den korte version af det, nye admins 
 - **Produktkoordinator** – skriveadgang til begge + ansvar for, at godkendt materiale lægges i den offentlige mappe  
 - **Sekretariat** – udvalgte har systemadmin-rettigheder på begge områder (opsætning, grupper og rettigheder)
 
-[← Til Fildeling](./index.html) · [← Til værktøjskassen](../feature/product-toolbox.html)
+
+{: .cta}
+📚 Skal du bruge overblik frem for værktøj? Gå til **[Sådan arbejder vi i OS2](../workflow_and_tools.md)**.
+

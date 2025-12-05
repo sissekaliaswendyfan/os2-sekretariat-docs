@@ -49,4 +49,3 @@ Det gør det nemt at:
 > 🔁 **Vil du ændre eller ophæve en adgang?**  
 > Se **[Kontakt & support](./support)**
 
-[← Til Fildeling](./index) · [← Til værktøjskassen](../feature/product-toolbox)

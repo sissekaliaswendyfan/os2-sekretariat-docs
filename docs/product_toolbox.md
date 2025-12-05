@@ -2,7 +2,7 @@
 title: Værktøjskasse til projekter og produkter
 layout: default
 has_children: true
-has_toc: true
+has_toc: false
 nav_order: 120
 ---
 
@@ -19,7 +19,7 @@ Værktøjskassen er især til dig, der:
 - er en del af OS2-sekretariatet eller arbejder tæt sammen med det
 
 ## Find hurtigt
-- 📂 **Fildeling (Nextcloud)** – [overblik & genveje](/docs/toolbox/fildeling/)
+- 📂 **Fildeling (Nextcloud)** – [overblik & genveje](./toolbox/fildeling/)
 
 
 > 🙌 **Bidrag gerne:** Mangler der noget, så opret et issue eller foreslå en ændring.
