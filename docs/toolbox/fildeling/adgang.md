@@ -47,5 +47,5 @@ Det gør det nemt at:
 > Start her: [Kom i gang: Opret bruger](./opret-bruger)  
 >
 > 🔁 **Vil du ændre eller ophæve en adgang?**  
-> Se **[Kontakt & support](./support)**
+> Se [Kontakt & support](./support)
 
