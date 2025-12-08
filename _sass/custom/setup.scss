@@ -1,3 +1,15 @@
+/* Inter font-face (kun normal + bold for simpelt setup) */
+@font-face {
+  font-family: "Inter";
+  src: url("/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Brug Inter som base-font i hele sitet */
+$body-font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+
 /* OS2-grøn – tokens til JTD callouts */
 $os2green-000: #D8E5D8; // 20% — lys baggrund
 $os2green-100: #B0CCB1; // 40%
