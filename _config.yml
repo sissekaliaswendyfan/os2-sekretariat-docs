@@ -18,6 +18,14 @@ aux_links:
 callouts_level: quiet
 callouts_opacity: 0.2
 
+    # OS2 callouts
 callouts:
-  cta:          # så kan du skrive "{: .cta}" i Markdown
+  tip:        # du kan fortsat bruge {: .tip}
+    title: Tip
     color: os2green
+  cta:        # ekstra alias, så du kan bruge {: .cta} hvis du vil
+    title: ""
+    color: os2green
+
+# (valgfrit) gør baggrunden en anelse tydeligere
+callouts_opacity: 0.25
