@@ -9,23 +9,6 @@
 
 /* === Inter font: start === */
 
-/* Brug Inter som standardfont i hele håndbogen */
-body {
-  font-family: "Inter",
-               system-ui, -apple-system, BlinkMacSystemFont,
-               "Segoe UI", Roboto, "Helvetica Neue", Arial,
-               sans-serif !important;
-}
-
-/* Overskrifter – Inter uden ekstra bogstavafstand */
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Inter",
-               system-ui, -apple-system, BlinkMacSystemFont,
-               "Segoe UI", Roboto, "Helvetica Neue", Arial,
-               sans-serif;
-  letter-spacing: normal;
-}
-
 /* Normal (opret/fed) */
 @font-face {
   font-family: "Inter";
@@ -44,5 +27,21 @@ h1, h2, h3, h4, h5, h6 {
   src: url("{{ '/assets/fonts/inter/InterVariable-Italic.woff2' | relative_url }}") format("woff2");
 }
 
+/* Brug Inter som standardfont i hele håndbogen */
+body {
+  font-family: "Inter",
+               system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, "Helvetica Neue", Arial,
+               sans-serif, "Segoe UI Emoji" !important;
+}
+
+/* Overskrifter – Inter uden ekstra bogstavafstand */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Inter",
+               system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, "Helvetica Neue", Arial,
+               sans-serif, "Segoe UI Emoji";
+  letter-spacing: normal;
+}
 
 /* === Inter font: slut === */
