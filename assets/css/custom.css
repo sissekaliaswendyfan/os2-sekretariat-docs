@@ -1,43 +1,35 @@
 ---
 ---
 
-/* === OS2-grøn farver === */
-:root {
-  --os2green-light: #D8E5D8;         /* 20% */
-  --os2green-medium-light: #B0CCB1;  /* 40% */
-  --os2green-medium: #89B289;        /* 60% */
-  --os2green-medium-dark: #619962;   /* 80% */
-  --os2green-base: #3A7F3B;          /* 100% - hovedfarve */
-}
-
-/* === Callout i OS2-grøn === */
+/* Callout i OS2-grøn */
 .callout.tip {
-  --callout-color: var(--os2green-medium-dark);
+  --callout-color: #619962;
   --callout-border-left: 0.25rem solid var(--callout-color);
   --callout-bg: color-mix(in srgb, var(--callout-color) 8%, #fff);
 }
 
 /* === Inter font: start === */
 
-/* Normal (opret/fed) */
+/* Indlæs Inter – variabel, normal */
 @font-face {
   font-family: "Inter";
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url("{{ '/assets/fonts/inter/InterVariable.woff2' | relative_url }}") format("woff2");
+  /* Sti er relativ til /assets/css/custom.css  */
+  src: url("../fonts/inter/InterVariable.woff2") format("woff2");
 }
 
-/* Kursiv */
+/* Indlæs Inter – variabel, kursiv */
 @font-face {
   font-family: "Inter";
   font-style: italic;
   font-weight: 100 900;
   font-display: swap;
-  src: url("{{ '/assets/fonts/inter/InterVariable-Italic.woff2' | relative_url }}") format("woff2");
+  src: url("../fonts/inter/InterVariable-Italic.woff2") format("woff2");
 }
 
-/* Brug Inter som standardfont i hele håndbogen */
+/* Brug Inter som standardfont på hele sitet */
 body {
   font-family: "Inter",
                system-ui, -apple-system, BlinkMacSystemFont,
@@ -45,13 +37,18 @@ body {
                sans-serif, "Segoe UI Emoji" !important;
 }
 
-/* Overskrifter – Inter uden ekstra bogstavafstand */
+/* Overskrifter – også Inter, uden ekstra bogstavafstand */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Inter",
                system-ui, -apple-system, BlinkMacSystemFont,
                "Segoe UI", Roboto, "Helvetica Neue", Arial,
-               sans-serif, "Segoe UI Emoji" !important;
+               sans-serif;
   letter-spacing: normal;
+}
+
+/* En lille optimering til variable font (kan også fjernes) */
+html {
+  font-variation-settings: "opsz" 14;
 }
 
 /* === Inter font: slut === */
