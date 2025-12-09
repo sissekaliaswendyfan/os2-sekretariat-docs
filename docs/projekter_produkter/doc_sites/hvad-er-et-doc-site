@@ -1,0 +1,42 @@
+---
+title: Hvad er et OS2 doc-site?
+layout: default
+parent: Dokumentation og doc-sites
+grand_parent: Projekter og produkter i OS2
+nav_order: 10
+---
+
+# Hvad er et OS2 doc-site?
+
+### Hvad er et OS2 doc-site?
+
+Hvad er et OS2-doc-site?
+
+Et OS2-doc-site er produktets fælles håndbog og beslutningsgrundlag i OS2-fællesskabet – ikke dets salgsside.
+
+Et doc-site er:
+
+- produktets fælles reference for, hvordan vi gør med \[produktet\] i OS2
+- et arbejdsredskab for kommuner, leverandører og OS2-sekretariatet
+- det sted, man går hen for at forstå rammerne for produktet.
+
+Et OS2-doc-site samler det, man har brug for til at forstå og drive produktet:
+
+- hvad løsningen er, og hvilke behov den understøtter
+- hvem der har ansvar og roller
+- hvordan man kommer i gang
+- hvordan drift, support og udvikling foregår
+- hvilke styringsprincipper, aftaler og krav der gælder
+- hvor man finder brugermanualer og teknisk dokumentation.
+
+Et doc-site er ikke:
+
+- en salgsside (den ligger fx på os2.eu eller produktets offentlige produktside)
+- en ren brugermanual (den kan ligge som sider, PDF, i løsningen, på GitHub osv.)
+- et nyhedssite (nyheder ligger typisk på os2.eu, i mails og nyhedsbreve)
+- et rent filarkiv (det ligger fx i Nextcloud, GitHub eller OS2-fildeling).
+
+Doc-sitet må gerne pege til salgsside, brugermanual, nyheder og filarkiv – men i form af få, tydelige links.
+
+Kort sagt:  
+ Doc-sitet er altid indgangen: Ét sted at få overblik over, hvad produktet er, hvem der gør hvad, hvilke regler og aftaler der gælder, og hvor man finder mere detaljeret hjælp – også selv om selve manualen og den tekniske dokumentation ligger andre steder.
