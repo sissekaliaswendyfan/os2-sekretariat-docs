@@ -1,0 +1,37 @@
+---
+title: Fælles skabelon på GitHub
+layout: default
+parent: Dokumentation og doc-sites
+nav_order: 20
+---
+
+Hvorfor har vi en fælles doc-site-skabelon i OS2?
+
+Vi anbefaler at OS2-produkter dokumentations-site (doc-site), der samler det vigtigste om produktet – både fagligt, styringsmæssigt og teknisk.
+
+OS2 tilbyder en skabelon på GitHub, som alle kan anvende. 
+  
+Skabelonen er sat op, så den:
+
+Samler alt ét sted
+Ét site pr. produkt, hvor man kan finde overblik, brugermanual, governance (styring) og teknisk dokumentation – i stedet for spredte PDF’er, wiki’er og mails.
+
+Tager udgangspunkt i brugernes opgaver
+Strukturen er bygget til mennesker, der har travlt og skal løse noget konkret (forberede et møde, tage en beslutning, løse et driftsproblem, sætte produktet op i en kommune).
+
+Skelner tydeligt mellem overblik, værktøjer og teknik
+Overblikssider forklarer hvad og hvorfor, værktøjskassen giver trin-for-trin og skabeloner, og den tekniske sektion samler arkitektur, installation og drift.
+
+Understøtter OS2’s governance-model
+Hvert doc-site har en sektion om governance og roller, som hænger direkte sammen med den fælles governance-template. Det gør det nemmere at se, om et produkt lever op til OS2’s krav om åbenhed, sikkerhed og bæredygtig drift. 
+GitHub
++1
+
+Minimerer vedligehold
+Skabelonen bruger få, stabile hovedsider og klare link-mønstre. Det gør det billigere i tid at vedligeholde dokumentationen, når produktet udvikler sig.
+
+Kort sagt:
+Doc-site-skabelonen gør det lettere at være kommune, leverandør og produktkoordinator – og sikrer, at OS2 kan stå på mål for governance, arkitektur og drift på tværs af alle produkter.
+
+{: .cta}
+🛠️ **Vil du i gang med at opsætte et dokumentations-site med det samme?** Så gå til **[Værktøjskassen](./product_toolbox)**
