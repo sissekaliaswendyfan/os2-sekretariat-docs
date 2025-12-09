@@ -9,7 +9,7 @@ nav_order: 4
 Her beskriver vi, hvordan vi arbejder sammen i OS2-sekretariatet: hvilke værktøjer, metoder og mødeformer vi bruger til at skabe fælles struktur, samarbejde og dokumentation.
 Afsnittet fokuserer på vores principper og arbejdsgange – altså hvordan vi organiserer, prioriterer og træffer beslutninger på tværs af fællesskabet.
 
-
+<!-- Flyttes til docs/secretariat/ og docs/collaboration  -->
 
 {: .cta}
 🛠️ **Skal du løse en opgave nu?** Brug **[Værktøjskassen](./product_toolbox)** til Trin for trin-guides, værktøjer og skabeloner.
