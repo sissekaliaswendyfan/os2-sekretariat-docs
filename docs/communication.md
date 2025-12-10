@@ -3,6 +3,7 @@ title: Kommunikation og tone
 layout: default
 nav_order: 6
 has_toc: false
+parent: communication
 ---
 
 <dette flyttes til de rigtige sider. indholdet er derefter noget om tone og skriftlighed>
