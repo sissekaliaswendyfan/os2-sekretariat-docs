@@ -1,8 +1,10 @@
 ---
-title: Doc-site til dit produkt
+title: Dokumentationsside til dit produkt
 layout: default
 parent: Værktøjskasse til projekter og produkter
-nav_order: 40
+nav_order: 20
+has_toc: false
+has_children: true
 ---
 
 # Doc-site til dit produkt <span class="label">Værktøj · Projekter &amp; produkter</span>
