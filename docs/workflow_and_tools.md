@@ -1,5 +1,5 @@
 ---
-title: "Sådan arbejder vi i OS2 :construction:"
+title: Sådan arbejder vi i OS2
 layout: default
 nav_order: 4
 ---
