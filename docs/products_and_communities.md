@@ -1,5 +1,5 @@
 ---
-title: Projekter, Produkter og fællesskaber
+title: "Projekter, Produkter og fællesskaber :construction:"
 layout: default
 nav_order: 7
 has_toc: false
