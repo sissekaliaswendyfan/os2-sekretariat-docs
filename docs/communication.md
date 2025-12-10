@@ -3,7 +3,10 @@ title: Kommunikation og tone
 layout: default
 nav_order: 6
 has_toc: false
+parent: communication
 ---
+
+<dette flyttes til de rigtige sider. indholdet er derefter noget om tone og skriftlighed>
 
 # Kommunikation og tone
 Her kan du få en forståelse for OS2’s kommunikation, sprog og tone, så vi fremstår ensartet og professionelt i alt, hvad vi kommunikerer.  
