@@ -1,5 +1,5 @@
 ---
-title: "Processer og rutiner :construction:"
+title: Processer og rutiner
 layout: default
 parent: Sådan arbejder vi i OS2
 nav_order: 20
