@@ -9,4 +9,7 @@ nav_order: 30
 # Visuel identitet og logo <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Kommunikation</span>
 
 {: .cta}
-🛠️ **Leder du efter skabeloner?** Gå til **[Kommunikationsskabeloner](../../toolbox/kommunikation/)** i Værktøjskassen.
+🛠️ **Leder du efter skabeloner?** Gå til **[værktøjskassen](../../toolbox/)**
+
+Der udestår en opgave med at tilføje brand-book / retningslinjer (ToDo)
+{: .label .label-red }

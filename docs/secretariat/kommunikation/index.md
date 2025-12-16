@@ -10,3 +10,6 @@ has_children: true
 
 {: .cta}
 🛠️ **Leder du efter skabeloner?** Gå til **[Kommunikationsskabeloner](../../toolbox/kommunikation/)** i Værktøjskassen.
+
+Der udestår en opgave med at tilføje LINK til brandbook/design-guide mv. (ToDo)
+{: .label .label-red }
