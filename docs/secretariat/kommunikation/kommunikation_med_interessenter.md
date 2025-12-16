@@ -9,4 +9,4 @@ nav_order: 20
 # Kommunikation med medlemmer, leverandører og partnere
 
 {: .cta}
-🛠️ **Leder du efter skabeloner?** Gå til **[Kommunikationsskabeloner](../../toolbox/kommunikation/)** i Værktøjskassen.
+🛠️ **Leder du efter skabeloner?** Gå til **[Kommunikationsskabeloner](../../toolbox/)** i Værktøjskassen.
