@@ -1,7 +1,7 @@
 ---
 title: Samarbejde i OS2-fællesskabet
 layout: default
-nav_order: 25
+nav_order: 30
 has_children: true
 ---
 
