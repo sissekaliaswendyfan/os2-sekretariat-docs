@@ -2,6 +2,7 @@
 title: Sådan arbejder vi i OS2
 layout: default
 nav_order: 4
+nav_exclude: true
 ---
 
 # Sådan arbejder vi i OS2 <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>

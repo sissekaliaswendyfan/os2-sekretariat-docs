@@ -3,7 +3,7 @@ title: Værktøjskasse til projekter og produkter
 layout: default
 has_children: true
 has_toc: false
-nav_order: 120
+nav_order: 40
 ---
 
 # Værktøjskasse til projekter og produkter <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
