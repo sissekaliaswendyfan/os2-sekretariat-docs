@@ -1,12 +1,19 @@
 ---
-title: Kommunikation og tone
+title: Kommunikation (gammel)
 layout: default
-nav_order: 6
-has_toc: false
-parent: communication
+nav_exclude: true
 ---
 
-<dette flyttes til de rigtige sider. indholdet er derefter noget om tone og skriftlighed>
+Denne sektion er flyttet.
+
+- Kommunikation i OS2 (sekretariat): ../secretariat/kommunikation/
+- Kommunikationsskabeloner (værktøjskasse): ../toolbox/kommunikation/
+- Åben kommunikation og videndeling (fællesskab): ../collaboration/aaben_videndeling/
+- Kommunikation for produkter og projekter (tilføjet)
+
+---
+
+
 
 # Kommunikation og tone
 Her kan du få en forståelse for OS2’s kommunikation, sprog og tone, så vi fremstår ensartet og professionelt i alt, hvad vi kommunikerer.  
