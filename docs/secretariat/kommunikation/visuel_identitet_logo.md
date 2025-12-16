@@ -2,7 +2,7 @@
 title: Visuel identitet og logo
 layout: default
 parent: Kommunikation i OS2
-grand_parent: OS2-sekretariatet: Sådan arbejder vi
+grand_parent: "OS2-sekretariatet: Sådan arbejder vi"
 nav_order: 30
 ---
 
