@@ -1,7 +1,7 @@
 ---
 title: Kommunikation i OS2
 layout: default
-parent: OS2-sekretariatet: Sådan arbejder vi
+parent: "OS2-sekretariatet: Sådan arbejder vi"
 nav_order: 40
 has_children: true
 ---
