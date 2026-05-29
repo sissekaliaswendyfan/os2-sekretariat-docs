@@ -1,304 +1,490 @@
-2025-12-09
+# Principper for struktur og formidling i OS2’s håndbog og doc-sites
 
-(Sisse)
+Dette dokument samler de vigtigste principper for struktur og formidling i arbejdet med OS2’s håndbog og OS2’s doc-sites.
 
-## 0. Overordnede formidlingsprincipper for OS2-doc-sites
+Principperne er lavet for at gøre dokumentationen lettere at:
 
-Disse gælder generelt – uanset om sitet handler om governance, håndbog eller et produkt.
+* forstå
+* bruge
+* udbygge
+* vedligeholde
+* overdrage til andre
 
-1. **Vi tager udgangspunkt i brugerens situation og opgave**  
-    Alt indhold skal kunne besvare: *Hvem er du – og hvad er det, du prøver at løse lige nu?*
-2. **Vi bygger indhold i tre lag: Overblik → Handling → Baggrund**  
-    Først: hvad er det og hvorfor.  
-    Så: hvordan gør jeg.  
-    Til sidst: regler, beslutningsgrundlag og detaljer.
-3. **Én side = ét formål og ét hovedspørgsmål**  
-    Når du har læst en side, skal du kunne svare: *“Den her side hjalp mig med X.”*  
-    Hvis den prøver at være tre ting på én gang, deler vi den op.
-4. **Vi svarer kort først – detaljer bagefter**  
-    Det vigtigste kommer øverst i en kort, klar form. Derefter kan man læse sig ned i detaljerne, hvis man har brug for det.
-5. **Vi skriver klart, konkret og venligt**  
-    Korte sætninger, korte afsnit, konkrete ord, forklaringer på begreber. Vi skriver til kloge mennesker med travlt – ikke til jurister.
-6. **Vi gør navigation og næste skridt tydelige – med så få, stabile links som muligt**  
-    Brugeren skal altid kunne se, hvor de er, og hvad de kan gøre som det næste. Vi begrænser antallet af links for at holde støj og vedligehold nede.
+De gælder både, når vi arbejder med OS2’s fælles håndbog, og når vi hjælper produkter med at lave egne doc-sites.
 
-Det er de principper, resten af A og B bygger videre på.
+## Kort version
 
----
+Brug disse principper:
 
-## A. Kort guide: Sådan laver du en forside til et doc-site
+1. Tag udgangspunkt i brugerens situation og opgave.
+2. Byg indhold i tre lag: **Overblik → Handling → Baggrund**.
+3. Giv hver side ét tydeligt formål.
+4. Svar kort først og læg detaljer bagefter.
+5. Skriv klart, konkret og venligt.
+6. Gør navigation og næste skridt tydelige.
+7. Brug få, stabile links.
+8. Hold forskellige typer dokumentation adskilt.
 
-**Formål:**  
- At gøre det nemt for alle i OS2 at lave en forside, som brugerne forstår og som kræver minimal vedligehold.
+Den vigtigste huskeregel er:
 
-### 1. Forsiden skal altid svare på tre spørgsmål
+> Dokumentation skal hjælpe læseren med at forstå, hvor de er, hvad der forventes af dem, og hvad de kan gøre som næste skridt.
 
-I denne rækkefølge – og meget kort:
+## Hvorfor er principperne nødvendige?
 
-1. **Hvad er det her?**  
-    2–3 linjer, der forklarer typen af site og formålet.
+OS2’s dokumentation dækker komplekse emner:
 
-   > “Dette site samler dokumentation om \[X\].  
-   >  Det bruges til \[formål\].”
-2. **For hvem – og hvornår er du det rigtige sted?**  
-    1–2 linjer eller 2–4 bullets.
+* produkter
+* projekter
+* governance
+* roller og ansvar
+* samarbejde
+* arbejdsgange
+* skabeloner
+* GitHub
+* doc-sites
+* filarkiver
+* brugermanualer
+* fælles beslutninger
 
-   > “Du er det rigtige sted, hvis du fx er  
-   >  – \[rolle\] og skal \[situation\]  
-   >  – \[rolle\] og skal \[situation\]…”
-3. **Hvad kan jeg gøre herfra? (typiske næste skridt)**  
-    2–4 bullets, der starter med “Her kan du…”.
+Det er let at komme til at blande det hele sammen.
 
-   > “Her kan du:  
-   >  – Få overblik over \[tema\]  
-   >  – Se, hvordan du gør \[proces\]  
-   >  – Læse, hvilke krav der gælder for \[noget\]”
+Når overblik, vejledning, baggrund, skabeloner og links ligger blandet på samme side, bliver det svært for læseren at finde ud af:
 
-Kort fortalt: Forsiden skal forklare, *hvad det er*, *om det er til mig*, og *hvad jeg kan bruge det til lige nu*.
+* hvad siden egentlig skal bruges til
+* hvad der er vigtigt nu
+* hvad der bare er baggrund
+* hvad der er en fælles regel
+* hvad der er en praktisk vejledning
+* hvor detaljerne egentlig hører hjemme
 
----
+Derfor bygger principperne på én enkel idé:
 
-### 2. Brug få og stabile links
+> Gør indgangen enkel, og placér kompleksiteten dér, hvor den hører hjemme.
 
-- Max **3–5 primære links** på forsiden.
-- Link til **sektioner/centrale sider** – ikke til alle små undersider.
-- Skriv forsideteksterne, så de kun skal ændres, hvis sitets *formål* ændrer sig.
+## 1. Tag udgangspunkt i brugerens situation og opgave
 
-Kort fortalt: Forsiden peger kun på de vigtigste døre – resten klares af menuen.
+Alt indhold skal kunne svare på:
 
----
+> Hvem er du – og hvad er det, du prøver at løse lige nu?
 
-### 3. Forsiden er ikke en indholdsfortegnelse
+God dokumentation starter ikke med vores interne struktur.
 
-- Menuen/TOC viser hele indholdet.
-- Forsiden viser kun:
-  1. Hvad er det her?
-  2. For hvem/hvornår?
-  3. Hvad kan jeg gøre herfra + få links.
+Den starter med læserens situation.
 
-Kort fortalt: Forsiden er en velkomst og et kort over de vigtigste veje – ikke en liste over alt.
+Spørg derfor altid:
 
----
+* Hvem er læseren?
+* Hvad prøver læseren at finde ud af?
+* Hvad skal læseren kunne gøre efter at have læst siden?
+* Er læseren ny, erfaren, presset, undersøgende eller i gang med en konkret opgave?
+* Har læseren OS2 som helhed i hovedet – eller et bestemt projekt/produkt?
 
-### 4. Tone og form
+Eksempler på brugeropgaver:
 
-- Skriv til en klog kollega med travlt.
-- Korte sætninger, korte afsnit, punktopstillinger.
-- Forklar forkortelser og begreber første gang de optræder.
+* “Jeg er ny produktkoordinator. Hvad forventes der af mig?”
+* “Vi har et produkt. Skal vi have et doc-site?”
+* “Jeg skal finde en skabelon til governance.”
+* “Jeg skal forstå forskellen på produktside, doc-site og GitHub-repo.”
+* “Jeg skal vide, hvem der har ansvar for hvad.”
 
-Kort fortalt: Vi skriver, som vi ville forklare det mundtligt til en kollega, der lige har fem minutter.
+Kort fortalt:
 
----
+> Skriv ikke først ud fra, hvad OS2 gerne vil fortælle. Skriv først ud fra, hvad læseren prøver at løse.
 
-## B. Understøttende dokumentation: Hvorfor gør vi det sådan?
+## 2. Byg indhold i tre lag: Overblik → Handling → Baggrund
 
-Denne del er til dig og de andre i sekretariatet (inkl. din leder), når der skal argumenteres for, *hvorfor* vi gør det på den her måde – og hvorfor “bare en FAQ” eller “bare en tekst” ikke er nok.
+Indhold bør bygges i tre lag:
 
-### 1. Brugernes opgave kommer før vores struktur
+1. **Overblik**
+   Hvad er det? Hvorfor er det vigtigt? Hvem er det relevant for? Hvad er næste skridt?
 
-Brugervenligheds- og content design-miljøer er ret enige om én ting: godt indhold tager udgangspunkt i **brugernes opgaver** – ikke i vores organisationsdiagram eller interne logik.
+2. **Handling**
+   Hvordan gør jeg? Hvilke trin skal jeg følge? Hvem gør hvad? Hvilken skabelon bruger jeg?
 
-For doc-sites betyder det:
+3. **Baggrund**
+   Hvorfor gør vi det sådan? Hvilke regler, beslutninger, principper eller historik ligger bag?
 
-- Folk lander sjældent på et site “for hyggens skyld”.  
-   De er typisk i en situation som:
-  - “Jeg skal forberede et bestyrelsesmøde”
-  - “Jeg skal forstå, hvad den her evaluering betyder for vores produkt”
-  - “Jeg skal finde ud af, hvilke krav der gælder for os”
-- Først når de kan afkode, *hvad* siden er, og *om det handler om deres situation*, giver det mening at læse resten.
+Det betyder ikke, at alt skal være langt.
 
-Derfor er de to første forsidespørgsmål “Hvad er det her?” og “For hvem/hvornår?” ikke pynt, men en direkte måde at koble sitet til konkrete opgaver.
+Det betyder, at læseren ikke skal tvinges gennem baggrundsstof for at kunne handle.
 
-Kort fortalt: En forside, der ikke tager udgangspunkt i brugernes situation, får mindre brug og flere misforståelser – uanset hvor klogt indholdet er.
+Eksempel:
 
----
+* Overbliksside: “Dokumentation og doc-sites”
+* Handlingsside: “Dokumentationsside til dit produkt”
+* Baggrundsside: “Principper for doc-sites i OS2”
 
-### 2. Folk scanner – de læser ikke (i hvert fald ikke først)
+Kort fortalt:
 
-Vi ved fra mange års web-brugerforskning, at:
+> Forklar først rammen. Hjælp derefter læseren med at handle. Læg begrundelser og detaljer til sidst.
 
-- de fleste scanner sider for ord og overskrifter, der matcher det, de leder efter
-- de færreste læser en lang indledning, før de træffer en beslutning om, om siden er relevant.
+## 3. Giv hver side ét tydeligt formål
 
-Det betyder:
+En side skal helst have ét hovedformål.
 
-- Vi kan ikke regne med, at nogen sætter sig ned og læser en længere tekst for at forstå formålet.
-- Vi er nødt til at servere det vigtigste i små, tydelige bidder, som øjnene kan fange på få sekunder.
+Når du har læst en side, skal du kunne sige:
 
-De tre forside-elementer er designet præcis til scanning:
+> “Den her side hjalp mig med X.”
 
-1. “Hvad er det her?” → kort blok øverst.
-2. “For hvem/hvornår?” → genkendelse (“okay, det er mig”).
-3. “Hvad kan jeg gøre herfra?” → konkrete handlings-ord som “få overblik”, “se hvordan”, “læs kravene”.
+Hvis siden prøver at være tre ting på én gang, skal den som regel deles op.
 
-Kort fortalt: Vi designer forsiden til mennesker, der skimmer – ikke til mennesker, der læser alt.
+Brug denne sortering:
 
----
+| Hvis læseren skal…          | Så er siden typisk en… | Typisk indhold                                                                       |
+| --------------------------- | ---------------------- | ------------------------------------------------------------------------------------ |
+| forstå et område            | Overbliksside          | Hvad er det? Hvorfor er det vigtigt? Hvem er det relevant for? Hvad er næste skridt? |
+| gøre noget konkret          | Vejledning             | Trin for trin, rækkefølge, ansvar og praktiske handlinger                            |
+| kopiere eller udfylde noget | Skabelon               | Tekstskabelon, formular, eksempel eller tjekliste                                    |
+| vælge mellem muligheder     | Beslutningshjælp       | Kriterier, anbefaling, fordele/ulemper og “vælg dette hvis…”                         |
+| forstå hvorfor noget gælder | Baggrund/princip       | Begrundelse, regler, beslutningsgrundlag og historik                                 |
+| finde videre                | Ressource-/linkside    | Få, stabile links til centrale dokumenter, repos eller systemer                      |
 
-### 3. Plain language til kloge, travle mennesker
+En side må gerne linke videre til andre sidetyper.
 
-Der findes solid erfaring for, at **klart og konkret sprog** (plain language):
+Men den skal ikke selv være alle sidetyper på én gang.
 
-- gør indholdet hurtigere at bruge
-- øger tilliden til afsenderen
-- særligt hjælper mennesker, der er pressede, trætte eller har kognitive udfordringer – men også eksperter.
+Kort fortalt:
 
-OS2’s målgruppe er typisk:
+> Én side = ét hovedformål.
 
-- kloge mennesker
-- med travl hverdag
-- der ofte læser på skærm efter møder, drift og brandslukning.
+## 4. Svar kort først og læg detaljer bagefter
 
-Derfor prioriterer vi:
+Mange læser ikke dokumentation fra ende til anden.
 
-- korte sætninger og korte afsnit
-- konkrete ord frem for abstrakte
-- forklaringer på forkortelser og styringsbegreber første gang, de optræder
-- et neutralt, venligt toneleje, som ikke er hverken bureaukratisk eller “cute”.
+De scanner først.
 
-Kort fortalt: Vi forenkler ikke fagligheden – vi forenkler sproget, så fagligheden kan bruges i praksis.
+Derfor skal det vigtigste stå øverst i en kort, klar form.
 
----
+Start gerne sider med:
 
-### 4. Færre links = mindre støj og lavere vedligehold
+* en kort forklaring
+* hvem siden er relevant for
+* hvad læseren kan bruge siden til
+* de vigtigste næste skridt
 
-Hver ekstra link på en forside er:
+Derefter kan I uddybe.
 
-- et ekstra valg for brugeren
-- et ekstra element, der kan blive forældet
-- en ekstra ting, nogen skal huske at rette, når strukturen ændrer sig.
+En god standardstruktur kan være:
 
-OS2 har i forvejen en vigtig præmis: doc-sites er **arbejdsredskaber**, ikke udstillingsvinduer. Vi arbejder med:
+```md
+# Titel
 
-- fælles, minimalistisk tema
-- genbrug af komponenter
-- fokus på minimal vedligehold.
+Kort forklaring på 2-4 linjer.
 
-Reglen om max 3–5 primære links på forsiden understøtter den linje:
+## Hvornår bruger du denne side?
 
-- Vi tvinges til at vælge de vigtigste veje videre.
-- Vi mindsker risikoen for døde links og uoverblik.
-- Vi gør det billigere i tid at vedligeholde sitet, når produkter og strukturer udvikler sig.
+- Situation 1
+- Situation 2
+- Situation 3
 
-Kort fortalt: Færre, klare links på forsiden betyder både mindre støj for brugeren og mindre vedligehold for os.
+## Det vigtigste kort
 
----
+- Punkt 1
+- Punkt 2
+- Punkt 3
 
-### 5. Forsiden er velkomst – ikke indholdsfortegnelse
+## Sådan gør du
+
+1. Trin
+2. Trin
+3. Trin
+
+## Baggrund og detaljer
+
+Længere forklaring, principper, historik eller beslutningsgrundlag.
+```
+
+Kort fortalt:
+
+> Giv læseren en landingsbane, før I giver dem hele lufthavnen.
+
+## 5. Skriv klart, konkret og venligt
+
+Vi skriver til kloge mennesker med travlt.
+
+Derfor skal sproget være:
+
+* klart
+* konkret
+* venligt
+* kort, hvor det kan være kort
+* præcist, hvor det skal være præcist
+
+Forklar fagord og forkortelser første gang, de optræder.
+
+Eksempel:
+
+> Governance betyder styring: altså de aftaler, roller, krav og beslutninger, der rammer et produkt ind.
+
+Undgå at skrive for internt, hvis siden også skal kunne læses af nye i OS2-fællesskabet.
+
+Skriv hellere:
+
+> Brug denne side, når du skal finde ud af, hvem der har ansvar for hvad.
+
+end:
+
+> Siden beskriver ansvarsplacering i relation til den organisatoriske governance-model.
+
+Kort fortalt:
+
+> Vi forenkler ikke fagligheden. Vi forenkler adgangen til fagligheden.
+
+## 6. Gør navigation og næste skridt tydelige
+
+Brugeren skal altid kunne se:
+
+* hvor de er
+* hvad siden handler om
+* hvad de kan gøre bagefter
+* hvor de kan læse mere
+* hvor de kan finde et konkret værktøj, hvis de skal handle
+
+I håndbogen arbejder vi derfor med en kobling mellem overblikssider og værktøjssider.
+
+**Overblikssider** forklarer rammer, begreber og sammenhæng.
+
+**Værktøjssider** hjælper læseren med at gøre noget konkret.
+
+Eksempel:
+
+* En overbliksside om “Dokumentation og doc-sites” forklarer, hvad et OS2-doc-site er, hvorfor det er vigtigt, og hvilke forventninger der gælder.
+* En værktøjsside om “Dokumentationsside til dit produkt” viser, hvordan man konkret kommer i gang.
+
+Overblikssider kan derfor have CTA’er til Værktøjskassen.
+
+CTA betyder “call to action” – altså en tydelig henvisning til næste relevante handling.
+
+Værktøjssider kan have CTA’er tilbage til det relevante overblik.
+
+Kort fortalt:
+
+> Læseren skal kunne vælge mellem “jeg skal forstå det først” og “jeg skal bare i gang”.
+
+## 7. Brug få, stabile links
+
+Links er nyttige, men de skaber også vedligehold.
+
+Hvert link er:
+
+* et valg for læseren
+* en mulig blindgyde
+* noget, der kan blive forældet
+* noget, nogen skal huske at rette
+
+Brug derfor få og stabile links.
+
+Gode links går typisk til:
+
+* centrale sektioner
+* faste repos
+* faste skabeloner
+* centrale systemer
+* officielle sider
+
+Undgå at en forside eller overbliksside bliver en lang linkliste.
+
+Menuen viser hele strukturen.
+
+Forsiden eller overblikssiden skal kun pege på de vigtigste døre.
+
+Kort fortalt:
+
+> Færre links giver mindre støj og mindre vedligehold.
+
+## 8. Forsiden er en velkomst – ikke en indholdsfortegnelse
+
+En forside skal ikke gentage hele menuen.
 
 Der er forskel på:
 
-- **Indholdsfortegnelse/menu** → viser alt indholdet (hele træet)
-- **Forside** → er en landingsside, der hjælper nye og tilbagevendende brugere med at orientere sig.
+* **Menu/indholdsfortegnelse**: viser hele strukturen.
+* **Forside/landingsside**: hjælper læseren med at forstå, hvad sitet er, og hvor de kan starte.
 
-Hvis vi bruger forsiden som indholdsfortegnelse, får vi ofte:
+Hvis forsiden bliver en lang liste over alle sider, får vi ofte:
 
-- en lang, uoverskuelig liste over sider og under-sider
-- dobbeltarbejde (både menu og forside skal opdateres ved ændringer)
-- en oplevelse af “overload”, hvor ingen helt ved, hvor de skal starte.
+* dobbeltarbejde
+* for mange valg
+* mere vedligehold
+* en oplevelse af overload
+* uklare indgange for nye læsere
 
-Ved at lade:
+En god forside skal i stedet svare kort på tre spørgsmål:
 
-- menuen håndtere overblikket over alle sider, og
-- forsiden holde sig til de tre spørgsmål,
+1. **Hvad er det her?**
+2. **Hvem er det til – og hvornår er du det rigtige sted?**
+3. **Hvad kan du gøre herfra?**
 
-får vi både:
+Eksempel:
 
-- en stabil indgang, der kan holde i mange år, og
-- en fleksibel struktur bagved, der kan justeres efter behov.
+```md
+Dette site samler dokumentation om [X].
+Det bruges til [formål].
 
-Kort fortalt: Menuen er oversigten – forsiden er den hjælpsomme person, der tager imod dig i døren.
+Du er det rigtige sted, hvis du fx er:
 
----
+- [rolle] og skal [situation]
+- [rolle] og skal [situation]
 
-### 6. Simpel indgang til kompleks faglighed
+Her kan du:
 
-Mange af OS2’s doc-sites dækker emner, som *er* komplekse: governance, evaluering, jura, tekniske afhængigheder osv. Det kan nemt give en mavefornemmelse af, at en simpel forside “snyder” eller skjuler noget.
+- få overblik over [tema]
+- se, hvordan du gør [proces]
+- læse, hvilke krav der gælder for [noget]
+```
 
-Her er pointen vigtig:
+Kort fortalt:
 
-- Vi forenkler **ikke** den faglige virkelighed eller antallet af dimensioner.
-- Vi forenkler kun **indgangen** til det:
+> Menuen er oversigten. Forsiden er den hjælpsomme person, der tager imod dig i døren.
 
-Forsiden skal:
+## 9. Adskil håndbog, doc-site, produktside, filarkiv og GitHub
 
-- gøre klart, hvad sitet er til
-- vise, hvem det er relevant for
-- pege på de vigtigste døre ind i kompleksiteten.
+En vigtig del af arbejdet er at gøre det tydeligt, hvad der hører hjemme hvor.
 
-Selve kompleksiteten kan og skal leve videre i:
+Ellers kommer håndbogen og produkternes dokumentation hurtigt til at blande sig sammen.
 
-- undersider med detaljerede guides
-- referencer, skabeloner, vurderingsgrundlag
-- processer og rollebeskrivelser.
+Brug denne enkle skelnen:
 
-Kort fortalt: Vi laver en kort, tryg landingsbane ind i noget, som godt må være avanceret – men først bagefter.
+| Sted                  | Bruges især til                                                        |
+| --------------------- | ---------------------------------------------------------------------- |
+| OS2’s håndbog         | Fælles rammer, principper, arbejdsgange og vejvisning                  |
+| Produktets doc-site   | Produktets egen dokumentation, roller, drift, governance og vejledning |
+| Produktside på os2.eu | Offentlig præsentation/salgsside for produktet                         |
+| GitHub-repo           | Kode, tekniske filer, issues og skabeloner                             |
+| Filarkiv/Nextcloud    | Dokumenter, bilag og arbejdsfiler                                      |
+| Brugermanual          | Konkret hjælp til slutbrugere eller administratorer                    |
 
----
+Håndbogen må gerne linke videre.
 
-### Litteratur- og kildeliste (forslag)
+Men håndbogen skal ikke prøve at samle alt.
 
-**Om hvordan folk læser online (scanning, ikke læsning)**
+Kort fortalt:
 
-- Nielsen, J. (1997). *How Users Read on the Web*. Nielsen Norman Group. [nngroup.com](https://www.nngroup.com/articles/how-users-read-on-the-web/?utm_source=chatgpt.com)
-- Moran, K. (2020). *How People Read Online: New and Old Findings*. Nielsen Norman Group. [nngroup.com](https://www.nngroup.com/articles/how-people-read-online/?utm_source=chatgpt.com)
+> Håndbogen er indgangen og vejviseren. Den er ikke hele arkivet.
 
-**Om brugerbehov og content design i det offentlige**
+## 10. Særligt om doc-sites
 
-- Government Digital Service (GOV.UK) (2016–). *Content design: planning, writing and managing content* – især afsnittene om “What is content design?” og “User needs”. [GOV.UK+1](https://www.gov.uk/guidance/content-design?utm_source=chatgpt.com)
-- Office for National Statistics (UK) (u.å.). *Understanding your users: Identifying user needs*. [Service manual](https://service-manual.ons.gov.uk/content/writing-for-users/user-needs?utm_source=chatgpt.com)
+Der ligger en del materiale om OS2-doc-sites i arbejdet med håndbogen.
 
-**Om plain language (klart, kort og modtagerrettet sprog)**
+Det er med, fordi arbejdet med håndbogen viste et beslægtet behov:
 
-- Plain Language Action and Information Network (PLAIN) (2011). *Federal Plain Language Guidelines*. [Digital.gov](https://digital.gov/resources/federal-plain-language-guidelines?utm_source=chatgpt.com)
-- Digital.gov (2023–2025). *Plain Language Guide Series* – især “Principles of plain language” og “Writing for understanding”. [Digital.gov+2Digital.gov+2](https://digital.gov/guides/plain-language/principles?utm_source=chatgpt.com)
-- WHO – World Health Organization (u.å.). *Use plain language* og *WHO principles for effective communications* (principperne: accessible, actionable, credible, relevant, timely, understandable). [World Health Organization+2World Health Organization+2](https://www.who.int/about/communications/understandable/plain-language?utm_source=chatgpt.com)
+Flere OS2-produkter er begyndt at etablere egne doc-sites, og der har samtidig været uklarhed om forskellen på:
 
-**Om stil og tone i teknisk/online dokumentation**
+* produktsider
+* doc-sites
+* brugermanualer
+* GitHub-repos
+* governance-skabeloner
+* filarkiver
 
-- Microsoft (2024). *Microsoft Writing Style Guide* (online-udgaven). [Microsoft Learn+1](https://learn.microsoft.com/en-us/style-guide/welcome/?utm_source=chatgpt.com)
+Der har også været behov for at gøre det lettere for produkterne at tage OS2’s GitHub-baserede skabeloner og styringsmodel i brug.
 
-  
-Nielsen Norman Group – How Users Read on the Web: <https://www.nngroup.com/articles/how-users-read-on-the-web/>
-GOV.UK – Content design: <https://www.gov.uk/guidance/content-design>
-Digital.gov – Principles of plain language: <https://digital.gov/guides/plain-language/principles>
-WHO – Use plain language: <https://www.who.int/about/communications/understandable/plain-language>
-Microsoft Writing Style Guide: <https://learn.microsoft.com/en-us/style-guide/welcome/>
+Derfor blev doc-site-materialet udviklet som en afløber af håndbogsarbejdet.
 
----
+Det skal ikke forstås som om håndbogen primært handler om doc-sites.
 
-## Guides  
-[#](https://boks.os2.eu/apps/files/files/350372?dir=/OS2/Kommunikation/01_OS2kommunikation_arbejdsmappe/02_Til_Haandbogen&openfile=true#h-guides "Link to this section")
+Det skal forstås sådan:
 
-### Hvad er et OS2 doc-site?
+> Håndbogen skal forklare de fælles rammer for dokumentation i OS2, mens doc-site-materialet skal hjælpe de enkelte produkter med at lave og vedligeholde deres egen dokumentation.
 
-**Hvad er et OS2-doc-site?**
+### Hvad er et OS2-doc-site?
 
-Et OS2-doc-site er **produktets fælles håndbog og beslutningsgrundlag i OS2-fællesskabet – ikke dets salgsside.**
+Et OS2-doc-site er produktets fælles håndbog og beslutningsgrundlag i OS2-fællesskabet.
 
-Et doc-site er:
+Det er ikke produktets salgsside.
 
-- produktets **fælles reference** for, *hvordan vi gør med \[produktet\]* i OS2
-- et **arbejdsredskab** for kommuner, leverandører og OS2-sekretariatet
-- det sted, man går hen for at forstå **rammerne for produktet**.
+Det er heller ikke nødvendigvis den fulde tekniske dokumentation eller en komplet brugermanual.
 
-Et OS2-doc-site samler det, man har brug for til at **forstå og drive produktet**:
+Et doc-site er den fælles indgang, hvor man kan forstå:
 
-- hvad løsningen er, og hvilke behov den understøtter
-- hvem der har ansvar og roller
-- hvordan man kommer i gang
-- hvordan drift, support og udvikling foregår
-- hvilke styringsprincipper, aftaler og krav der gælder
-- hvor man finder brugermanualer og teknisk dokumentation.
+* hvad produktet er
+* hvem der har ansvar
+* hvordan man kommer i gang
+* hvordan drift, support og udvikling foregår
+* hvilke krav, aftaler og beslutninger der gælder
+* hvor man finder mere detaljeret hjælp
 
-Et doc-site er **ikke**:
+Doc-sitet må gerne linke videre til salgsside, brugermanual, GitHub, Nextcloud og andre systemer.
 
-- en salgsside (den ligger fx på os2.eu eller produktets offentlige produktside)
-- en ren brugermanual (den kan ligge som sider, PDF, i løsningen, på GitHub osv.)
-- et nyhedssite (nyheder ligger typisk på os2.eu, i mails og nyhedsbreve)
-- et rent filarkiv (det ligger fx i Nextcloud, GitHub eller OS2-fildeling).
+Men doc-sitet skal gøre det tydeligt, hvad der ligger hvor.
 
-Doc-sitet **må gerne pege** til salgsside, brugermanual, nyheder og filarkiv – men i form af få, tydelige links.
+Kort fortalt:
 
-**Kort sagt:**  
- Doc-sitet er altid **indgangen**: Ét sted at få overblik over, hvad produktet er, hvem der gør hvad, hvilke regler og aftaler der gælder, og hvor man finder mere detaljeret hjælp – også selv om selve manualen og den tekniske dokumentation ligger andre steder.
+> Et OS2-doc-site er produktets fælles referencepunkt – ikke produktets salgsside, filarkiv eller brugermanual.
+
+## 11. Praktisk tjekliste, når I opretter eller flytter en side
+
+Brug denne tjekliste, når I arbejder med sider i håndbogen eller på et doc-site.
+
+### 1. Hvad er sidens formål?
+
+Siden skal især hjælpe læseren med at:
+
+* forstå noget
+* gøre noget
+* vælge noget
+* kopiere noget
+* finde noget
+* forstå baggrunden for noget
+
+Vælg én primær funktion.
+
+### 2. Hvem er siden til?
+
+Skriv gerne for jer selv:
+
+> Denne side er især til [målgruppe], når de skal [opgave].
+
+Eksempel:
+
+> Denne side er især til produktkoordinatorer, når de skal finde ud af, hvordan produktets doc-site skal bygges op.
+
+### 3. Hvor hører siden hjemme?
+
+Brug hovedsporene i håndbogen:
+
+* **Sekretariatet** = hvordan OS2-sekretariatet arbejder
+* **Projekter og produkter** = når læseren har et konkret projekt eller produkt
+* **Samarbejde i OS2-fællesskabet** = community, relationer og fælles arbejde
+* **Værktøjskassen** = guides, skabeloner og tjeklister
+
+### 4. Skal noget flyttes ud?
+
+Hvis siden indeholder både overblik, trin-for-trin, historik, links og skabeloner, så overvej at dele den op.
+
+Spørg:
+
+* Er noget af dette en vejledning?
+* Er noget af dette en skabelon?
+* Er noget af dette baggrund?
+* Er noget af dette kun et link videre?
+
+### 5. Er næste skridt tydeligt?
+
+Når læseren har læst siden, skal de kunne se, hvad de kan gøre bagefter.
+
+Det kan fx være:
+
+* gå til en vejledning
+* bruge en skabelon
+* læse baggrund
+* kontakte en bestemt rolle
+* gå til produktets doc-site
+* finde en fil i et andet system
+
+Kort fortalt:
+
+> En god side efterlader ikke læseren med “okay, men hvad gør jeg så?”
+
+## Kilder og inspiration
+
+Principperne bygger bl.a. på praksis fra content design, plain language og web-brugervenlighed.
+
+Relevante kilder:
+
+* Nielsen Norman Group: *How Users Read on the Web*
+* Nielsen Norman Group: *How People Read Online*
+* GOV.UK: *Content design: planning, writing and managing content*
+* Digital.gov: *Principles of plain language*
+* WHO: *Use plain language*
+* Microsoft Writing Style Guide
