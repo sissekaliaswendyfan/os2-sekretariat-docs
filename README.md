@@ -14,6 +14,7 @@ Den er et praktisk arbejdsgrundlag, som kan bruges til at:
 * undgå at starte forfra med informationsstruktur
 * gøre håndbogen lettere at bruge, udbygge og vedligeholde
 
+Se materialer til håndbogsarbejdet her: [docs/_haandbog_struktur](docs/_haandbog_struktur/)
 
 ## Indhold
 
