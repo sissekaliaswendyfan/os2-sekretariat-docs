@@ -1,5 +1,5 @@
 ---
-title: Værktøjskasse til projekter og produkter
+title: Værktøjskasse
 layout: default
 has_children: true
 has_toc: false
