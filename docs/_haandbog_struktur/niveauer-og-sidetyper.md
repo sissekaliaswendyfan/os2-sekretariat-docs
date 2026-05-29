@@ -11,6 +11,8 @@ Formålet er at gøre det lettere at vurdere:
 * hvornår noget skal ligge i Værktøjskassen
 * hvordan overblik, vejledninger og baggrund holdes adskilt
 
+### Se eksempel (docs/_haandbog_struktur/eksempel-aarshjul.md)
+
 ## Kort version
 
 ## TL;DR
