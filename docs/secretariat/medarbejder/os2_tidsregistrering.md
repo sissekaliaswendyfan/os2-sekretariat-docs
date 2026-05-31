@@ -1,9 +1,9 @@
 ---
-title: Struktur for tidsregistrering
+title: Tidsregistrering
 layout: default
-parent: Processer og rutiner
+parent: Medarbejder
 grand_parent: Sådan arbejder vi i OS2
-nav_order: 40
+nav_order: 80
 has_toc: false
 ---
 
