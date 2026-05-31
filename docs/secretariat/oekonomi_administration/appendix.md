@@ -1,6 +1,7 @@
 ---
 title: Bilag og ressourcer
 layout: default
+parent: Økonomi og administration
 nav_order: 11
 ---
 
