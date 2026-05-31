@@ -4,7 +4,7 @@ layout: default
 nav_order: 7
 has_toc: false
 nav_exclude: false
-parent: OS2-sekretariatet: Sådan arbejder vi
+parent: "OS2-sekretariatet: Sådan arbejder vi"
 ---
 
 # Kort om projekter og produkter 
