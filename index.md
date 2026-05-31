@@ -36,11 +36,10 @@ Den er især til dig, der arbejder med OS2 som sekretariat, produktkoordinator, 
 
 - **[Værktøjskasse til projekter og produkter](./docs/product_toolbox)**  
   Find guides, tjeklister, skabeloner og andre værktøjer, når du skal gøre noget konkret.
+  
 
-## Håndbogen samler ikke alt ét sted
+## Kontakt og yderligere information
 
-Håndbogen er en vejviser.
+Er du landet det forkerte sted? Måske finder du den information du søger via vores hjemmeside: [wwww.os2.eu](https://www.os2.eu/)
 
-Den hjælper dig videre til det rigtige sted, når detaljerne ligger bedre et andet sted — fx i et produkt-doc-site, på GitHub, i Nextcloud, i en brugermanual eller i en konkret skabelon.
-
-[INDSÆT EVT. KONTAKT ELLER LINK TIL BIDRAG/SUPPORT HER]
+Du kan også kontakte OS2s centrale sekretariat via denne mail: os2@os2.eu
