@@ -2,7 +2,10 @@
 title: Kultur og udvikling
 layout: default
 nav_order: 9
+nav_exclude: true
 ---
+
+Siden er skjult. 
 
 # Kultur og udvikling
 Kultur er svær at beskrive og sætte på formel. I det følgende afsnit gør vi alligevel vores bedste til at beskrive OS2’s kultur og tilgang til samarbejde, læring og udvikling og hvordan vi understøtter hinanden som team og fællesskab.  
