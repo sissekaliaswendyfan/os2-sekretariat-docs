@@ -1,9 +1,9 @@
 ---
 title: Eksempler på opgaver til tidsregistrering
 layout: default
-parent: Processer og rutiner
+parent: Medarbejder i OS2
 grand_parent: Sådan arbejder vi i OS2
-nav_order: 50
+nav_order: 60
 has_toc: false
 ---
 

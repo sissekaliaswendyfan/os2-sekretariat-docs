@@ -1,14 +1,13 @@
 ---
-title: Projekter, Produkter og fællesskaber
+title: Kort om projekter og produkter
 layout: default
 nav_order: 7
 has_toc: false
-nav_exclude: true
+nav_exclude: false
+parent: "OS2-sekretariatet: Sådan arbejder vi"
 ---
 
-# Projekter, Produkter og fællesskaber
-I afsnittet får du overblik over OS2’s produktportefølje og får beskrevet, hvordan sekretariatet understøtter fællesskaberne omkring hvert projekt og produkt.  
-Afsnittet hjælper nye medarbejdere, produktkoordinatorer og samarbejdspartnere med at forstå, hvordan OS2’s projekter og produkter organiseres, driftes og videreudvikles i et fællesskab.
+# Kort om projekter og produkter 
 
 
 ## OS2’s produktportefølje {#portfolio}
@@ -34,29 +33,14 @@ For at arbejde effektivt i OS2 er det vigtigt at kende forskellen på de tre gru
 | **Produkt** | En færdig eller driftsmoden løsning, som vedligeholdes og videreudvikles i fællesskab. | At levere stabil funktionalitet, dokumentation og support til brugerne. |
 | **Fællesskab** | Den gruppe af organisationer, personer og leverandører, der sammen ejer, bruger og udvikler et produkt. | At sikre engagement, ejerskab og fælles retning. |
 
-💡 Et projekt skaber noget nyt.  
-🔧 Et produkt holder det i live.  
-🤝 Et fællesskab gør det stærkere.  
 
-
-## Hvordan sekretariatet understøtter {#support}
+## Sekretariatets rolle
 Sekretariatets rolle er at sikre, at hvert projekt og produkt drives åbent, koordineret og med fokus på kvalitet, men uden selv at være den udførende part på sigt.
 Sekretariatet bidrager til at få processer i gang, skabe struktur og sikre sammenhæng, så fællesskaberne kan overtage og videreføre arbejdet.  
-
-Det gør vi ved at tilbyde support, struktur og sparring i alle faser af projektets og produktets livscyklus.
-
-**Sekretariatets hovedopgaver i understøttelse:**
-- **Koordinering:** Agerer bindeled mellem aktører og sikrer fremdrift i samarbejdet.  
-- **Governance:** Bidrager til, at produktet følger OS2’s governance-model og anvender fælles skabeloner.  
-- **Kvalitet:** Understøtter udarbejdelse og vedligeholdelse af dokumentation, licenser, sikkerhed og compliance.  
-- **Facilitering:** Hjælper fællesskaber med at skabe engagement, afholde møder og formidle resultater.  
-- **Synlighed:** Bidrager til kommunikation, nyheder og opdateringer på os2.eu og sociale medier.  
-- **Sparring:** Rådgiver om strategi, økonomi og produktudvikling.  
-
-💡 Sekretariatet arbejder på vegne af OS2’s bestyrelse for at sikre, at hvert projekt og produkt drives åbent, koordineret og med fokus på kvalitet, men uden selv at være den udførende part på sigt.
+Sekretariatet arbejder på vegne af OS2’s bestyrelse for at sikre, at hvert projekt og produkt drives åbent, koordineret og med fokus på kvalitet, men uden selv at være den udførende part på sigt.
 
 
-## Processen for nye produkter {#process}
+## Processen for nye produkter 
 Når nye idéer opstår, hjælper sekretariatet med at modne dem og vurdere, om de egner sig som OS2-produkter.
 
 **Fra idé til projekt til OS2-produkt:**
@@ -141,9 +125,12 @@ Produktet skal have dokumenteret kvalitet, åbenhed og bæredygtighed i drift og
 Sekretariatet bistår med vurdering, dokumentation og kontakt til bestyrelsen.
 
 
-## Skabeloner og vejledninger {#templates}
-OS2 anvender en række fælles skabeloner for at sikre kvalitet og ensartethed i produktarbejdet.  
-Alle skabeloner findes i GitHub og Nextcloud. Listen er ikke udtømmende, [bidrag](./docs/CONTRIBUTE.md) gerne med manglende skabeloner eller forbedringer.
+## Skabeloner og vejledninger
+
+{: .cta}
+🛠️ **Leder du efter skabeloner?** Gå til **[Kommunikationsskabeloner](../../toolbox/kommunikation/)** i Værktøjskassen.
+
+Herunder finder du desuden diverse direkte links:
 
 | Dokument / skabelon | Formål | Placering |
 |----------------------|---------|-----------|

@@ -9,8 +9,16 @@ has_children: true
 
 # Doc-site til dit produkt <span class="label">Værktøj · Projekter &amp; produkter</span>
 
+Dette værktøj hjælper dig med at oprette eller opdatere doc-site for dit OS2-produkt:  
+trin for trin, tjekliste og forslag til struktur, som du kan tilpasse til jeres løsning.
+
+_Obs: nedenstående fungerer som placeholder-links_
+
+[Eksempel på doc-site](https://sissekaliaswendyfan.github.io/os2-product-docs-template-demo/)
+
+[Gå til doc-site skabelonen på GitHub](https://github.com/just-the-docs/just-the-docs-template)
+
 {: .cta}
 📚 **Har du brug for rammer og minimumskrav først?** Læs **[Dokumentation og doc-sites](../projekter_produkter/doc_sites)** under *Projekter og produkter i OS2*.
 
-Dette værktøj hjælper dig med at oprette eller opdatere doc-site for dit OS2-produkt:  
-trin for trin, tjekliste og forslag til struktur, som du kan tilpasse til jeres løsning.
+

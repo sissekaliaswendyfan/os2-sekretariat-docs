@@ -1,133 +1,63 @@
 ---
-title: Forside
+title: Håndbogen
 layout: home
 nav_order: 1
 ---
 
-# Sådan gør vi i OS2-fællesskabet og OS2-sekretariatet – en håndbog
+# OS2’s håndbog
 
-Version [v1.0.1](https://github.com/OS2offdig/os2-sekretariat-docs/releases/tag/v.1.0.1) – Udgivet december 2025
-{: .label .label-green }  
+OS2’s håndbog er en fælles indgang til, hvordan vi arbejder i OS2.
 
-Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet. Hvorfor og hvordan gør vi forskellige ting? Hvilket værktøj bruges til x,y og z? Og hvad er proceduren nu lige?
+Håndbogen hjælper dig med at finde ud af, hvor du er i OS2-systemet, hvad der forventes af dig, og hvor du kan gå videre.
 
-> 💡 Dette er ikke en komplet og fyldestgørende samling – en håndbog udvikler sig hele tiden.  
-> Så mangler der noget, skal du registrere et *issue* og bidrag meget gerne med en løsning.  
-> Rettelser til eksisterende indhold hilses også meget velkommen 🙌.
+Den er især til dig, der arbejder med OS2 som sekretariat, produktkoordinator, projektejer, styregruppe, kommune, leverandør eller samarbejdspartner.
 
+## Brug håndbogen, når du skal
 
-## [Velkommen og formål](./docs/welcome_and_purpose)
+- forstå hvordan OS2-sekretariatet arbejder
+- finde ud af, hvordan projekter og produkter i OS2 hænger sammen
+- samarbejde med andre i OS2-fællesskabet
+- finde guides, skabeloner eller praktiske værktøjer
+- se hvor dokumentation, filer, GitHub-repos og produktinformation hører hjemme
 
-Her gives en introduktion til OS2-fællesskabet og sekretariatets rolle. Afsnittet sætter scenen for arbejdet i sekretariatet og beskriver, hvorfor vi gør, som vi gør.
+## Start her
 
-- [Kort om OS2-fællesskabet, formål og værdier](./docs/welcome_and_purpose#formaal)
-- [Sekretariatets rolle](./docs/welcome_and_purpose.md#rolle)
-- [Hvad man kan bruge håndbogen til](./docs/welcome_and_purpose#haandbog)
+- **[Om håndbogen](./docs/om_haandbogen/)**  
+  Læs hvordan håndbogen bruges, hvem den er til, og hvad du finder hvor.
 
----
+- **[OS2-sekretariatet: Sådan arbejder vi](./docs/secretariat/)**  
+  Få overblik over sekretariatets rolle, arbejdsgange og måde at understøtte OS2-fællesskabet på.
 
-## [Organisation og Roller](./docs/organisation_and_roles)
+- **[Projekter og produkter i OS2](./docs/projekter_produkter/)**  
+  Gå hertil, når du står med et konkret projekt eller produkt og skal forstå roller, ansvar, dokumentation og næste skridt.
 
-Skaber overblik over, hvordan sekretariatet er organiseret, hvem der har hvilke roller, og hvordan vi samarbejder internt og med fællesskabets aktører.
+- **[Samarbejde i OS2-fællesskabet](./docs/collaboration/)**  
+  Læs om community, samarbejdsformer og hvordan flere kan bidrage til OS2’s produkter og fælles arbejde.
 
-- [OS2s organisering](./docs/organisation_and_roles#organisering)
-- [Roller og ansvar](./docs/organisation_and_roles#roller)
-- [Samarbejde med bestyrelsen, myndigheder og medlemmer](./docs/organisation_and_roles#samarbejde)
-- [Samarbejde med produktfællesskaber og produktkoordinatorer](./docs/organisation_and_roles#samarbejde2)
-- [Kontaktflader og samarbejdspartnere](./docs/organisation_and_roles#kontaktflader)
+- **[Værktøjskasse til projekter og produkter](./docs/product_toolbox)**  
+  Find guides, tjeklister, skabeloner og andre værktøjer, når du skal gøre noget konkret.
+  
 
----
+## Kontakt og yderligere information
 
-## [Arbejdsformer og værktøjer](./docs/workflow_and_tools)
+Er du landet det forkerte sted? Måske finder du den information du søger via vores hjemmeside: [wwww.os2.eu](https://www.os2.eu/)
 
-Beskriver de værktøjer og metoder, vi bruger i det daglige arbejde, og sikre en fælles tilgang til samarbejde, struktur og dokumentation.
+Du kan også kontakte OS2s centrale sekretariat via denne mail: os2@os2.eu
 
-- [Samarbejdsformer](./docs/workflow_and_tools#samarbejdsformer)
-- [Centrale værktøjer](./docs/workflow_and_tools#tools)
-- [Filstruktur og navngivningsprincipper](./docs/workflow_and_tools#filstruktur)
-- [Mødekultur og mødestruktur](./docs/workflow_and_tools#modekultur)
-- [Governance og standarder](./docs/workflow_and_tools#governance)
+## Kort om OS2-fællesskabet, formål og værdier
 
----
+**OS2 – Offentligt Digitaliseringsfællesskab** er et samarbejde mellem kommuner, regioner og statslige institutioner om at udvikle og dele digitale løsninger i fællesskab.  
+Det overordnede formål med foreningen er at udbrede kendskabet til og brugen af open source i den offentlige sektor samt sikre en fælles styringsmodel, der gør det muligt at dele teknologi, viden og ejerskab på tværs af myndigheder.
 
-## [Processer og rutiner](./docs/processes_and_rutines)
+Fællesskabet bygger på tre grundlæggende værdier:  
+- **Åbenhed** – alle resultater, kildekoder og beslutninger deles åbent for at skabe tillid og transparens.  
+- **Samarbejde** – løsninger udvikles i fællesskab ud fra reelle behov i det offentlige Danmark.  
+- **Ejerskab** – offentlige myndigheder bevarer ejerskab til kildekode, data og andre resultater gennem brug af open source-licenser.
 
-Samler og beskriver de faste arbejdsgange, som sikrer kvalitet, ensartethed og overblik i sekretariatets drift og projekter.
+Som frivilligt, medlemsfinansieret fællesskab drives OS2 af en bestyrelse og et sekretariat, der understøtter projekter og produkter på tværs af myndigheder og fagområder.  
+Bestyrelsen har det strategiske ansvar for at sikre, at OS2’s projekter og produkter er behovsdrevne og værdiskabende for det offentlige. Dette udmøntes ved at sikre overensstemmelse med OS2’s styringsmodel.
 
-- [Onboarding af nye medarbejdere](./docs/processes_and_rutines#onboarding)
-- [Budgetstyring og økonomiprocesser](./docs/processes_and_rutines#budgetstyring)
-- [Fakturahåndtering og godkendelsesflow](./docs/processes_and_rutines#faktura)
-- [Time- og opgaveregistrering](./docs/processes_and_rutines#time)
-- [Udbud, kontrakter og juridiske processer](./docs/processes_and_rutines#udbud)
-
----
-
-## [Kommunikation og tone](./docs/communication)
-
-Skaber fælles forståelse for OS2’s kommunikation, sprog og tone, så vi fremstår ensartet og professionelt i alt, hvad vi kommunikerer.
-
-- [Tone og Code of Conduct](./docs/communication#tone)
-- [Kommunikation med medlemmer, leverandører og partnere](./docs/communication#kommunikation)
-- [Visuel identitet og logo](./docs/communication#visuel)
-- [Skabeloner](./docs/communication#skabeloner)
-- [God praksis for videndeling og åben dokumentation](./docs/communication#praksis)
-
----
-
-## [Produkter og fællesskaber](./docs/products_and_communities)
-
-Her gives overblik over OS2’s produktportefølje og beskrives hvordan sekretariatet understøtter fællesskaberne omkring hvert produkt.
-
-- [OS2’s portefølje](./docs/products_and_communities#portfolio)
-- [Forskellen på projekt, produkt og fællesskab](./docs/products_and_communities#forskel)
-- [Hvordan sekretariatet understøtter](./docs/products_and_communities#support)
-- [Processen for nye produkter](./docs/products_and_communities#process)
-  - Fra OS2-projekt til OS2-produkt
-  - Kriterier for OS2-projekt
-  - Kriterier for OS2-produkt
-- [Skabeloner og vejledninger](./docs/products_and_communities#templates)
-
-
-## [Samarbejdspartnere og leverandører](./docs/partners_and_suppliers)
-
-Skaber klarhed over, hvordan OS2 samarbejder med eksterne parter – både offentlige og private – og hvilke principper og rammer der gælder for samarbejdet.
-
-- [OS2’s samarbejdsfilosofi](./docs/partners_and_suppliers#filosofi)  
-- [Typer af samarbejdspartnere](./docs/partners_and_suppliers#typer)  
-- [Aftaler og rammer](./docs/partners_and_suppliers#aftaler)  
-- [Samarbejdsformer](./docs/partners_and_suppliers#samarbejdsformer)  
-- [Praktisk samspil](./docs/partners_and_suppliers#praktisk)  
-- [Ressourcer](./docs/partners_and_suppliers#ressourcer)
-
-
-## [Kultur og uvikling](./docs/culture_and_development)
-
-Beskriver OS2’s kultur og tilgang til samarbejde, læring og udvikling – og hvordan vi understøtter hinanden som team og fællesskab.
-
-- [Sådan arbejder vi i fællesskab](./docs/culture_and_development#arbejder)
-- [Forbindelsen til ITK’s kultur](./docs/culture_and_development#kultur)  
-- [Læring og videndeling](./docs/culture_and_development#videndeling)  
-- [Kompetenceudvikling](./docs/culture_and_development#kompetenceudvikling)  
-- [Feedbackkultur og sparring](./docs/culture_and_development#feedbackkultur)  
-- [Ledelsesstil og fælles udvikling](./docs/culture_and_development#ledelsesstil)
-
-
-## [Praktisk information](./docs/practical_information)
-
-Hurtig adgang til praktisk information om arbejdsforhold, udstyr, lokaler og sikkerhed i hverdagen i sekretariatet.
-
-- [Arbejdsforhold og retningslinjer](./docs/practical_information#arbejdsforhold)  
-- [IT og udstyr](./docs/practical_information#it)  
-- [Lokaler og adgang](./docs/practical_information#lokaler)  
-- [Kommunikation og kontakt](./docs/practical_information#kommunikation)  
-- [Sikkerhed og GDPR](./docs/practical_information#sikkerhed)
-
-
-## [Bilag og ressourcer](./docs/appendix)
-
-Her samles relevante dokumenter, skabeloner og henvisninger ét sted, så de hurtigt kan findes og bruges i det daglige arbejde.
-
-- [Centrale dokumenter og skabeloner](./docs/appendix#central)
-- [Juridiske og organisatoriske dokumenter](./docs/appendix#jura)
-- [Ofte stillede spørgsmål (FAQ)](./docs/appendix#faq)
-- [“Hvem kontakter jeg, når jeg er i tvivl?”](./docs/appendix#faq)
+> **Læs mere i:**  
+> - *[OS2 organisering – Strand & Donslund rapport version 1.0](https://boks.os2.eu/s/Afco557gKpepLJa)*  
+> - *[Kommissorium for OS2’s bestyrelse v.1.0](https://boks.os2.eu/s/dKzT7k34m2sSTem)*  
+> - *[OS2 Vision, Mission og Strategi 2022](https://boks.os2.eu/s/MmWeim6cDFaHjK2)*

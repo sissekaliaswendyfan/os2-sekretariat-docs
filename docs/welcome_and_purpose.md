@@ -2,7 +2,13 @@
 title: Velkommen og formål
 layout: default
 nav_order: 2
+nav_exclude:true
 ---
+
+Intern note: Siden er skjult, indhold flyttes til relevante afsnit på sigt. Afsnittet "Kort om OS2-fællesskabet er flyttet til index-siden i root".
+
+
+----------
 
 # Velkommen og formål
 

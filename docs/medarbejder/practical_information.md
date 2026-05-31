@@ -1,7 +1,9 @@
 ---
-title: Praktisk information
+title: Praktisk information til sekretariatsmedarbejdere
 layout: default
-nav_order: 10
+nav_order: 50
+grand_parent: "OS2-sekretariatet: Sådan arbejder vi"
+parent: Medarbejder i sekretariatet
 ---
 
 # Praktisk information

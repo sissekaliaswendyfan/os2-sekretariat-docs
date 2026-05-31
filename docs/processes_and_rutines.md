@@ -1,11 +1,16 @@
 ---
-title: Processer og rutiner
+title: 
 layout: default
 parent: Sådan arbejder vi i OS2
 nav_order: 20
 has_children: true
 has_toc: false
+nav_exclude: true
 ---
+
+Intern note: Siden er skjult, indholdet på siden flyttes på sigt til passende afsnit hvis relevant.
+
+----
 
 # Processer og rutiner <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
 

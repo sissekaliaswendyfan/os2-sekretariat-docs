@@ -11,7 +11,7 @@ Formålet er at gøre det lettere at vurdere:
 * hvornår noget skal ligge i Værktøjskassen
 * hvordan overblik, vejledninger og baggrund holdes adskilt
 
-### Se eksempel (docs/_haandbog_struktur/eksempel-aarshjul.md)
+### Se eksempel [Årshjul eksempel](docs/_haandbog_struktur/eksempel-aarshjul.md)
 
 ## Kort version
 
@@ -29,7 +29,7 @@ Brug niveauerne sådan her:
   Fx *Hvad er et OS2-doc-site?* eller *Roller og ansvar for doc-sites*.
 
 - **Værktøjskassen** = alt det, der hjælper læseren med at gøre noget konkret  
-  Fx guides, tjeklister, skabeloner og trin-for-trin-vejledninger.
+  Fx guides, tjeklister, skabeloner og trin-for-trin-vejledninger. 
 
 Huskereglen er:
 
@@ -67,6 +67,8 @@ Det handler om, hvor en side ligger i håndbogens struktur.
 N1 er de øverste hovedområder i håndbogen.
 
 En N1-side skal give læseren et overblik over et helt område.
+
+I udgangspunktet bør der ikke skabes flere N1-sider dvs. hovedområdesider. Indholdet skal inddeles i N2-emner. Se eksempel med [årshjul](docs/_haandbog_struktur/eksempel-aarshjul.md)
 
 Eksempler på N1:
 
@@ -145,6 +147,8 @@ Hvis N3-siden bliver en praktisk guide, skal den måske i Værktøjskassen i ste
 ## Hvornår skal noget ligge i Værktøjskassen?
 
 Værktøjskassen er til indhold, som hjælper læseren med at gøre noget konkret.
+
+Værktøjssider hjælper læseren med at gøre noget konkret. Labels viser, hvem værktøjet er relevant for.
 
 Brug Værktøjskassen til:
 
