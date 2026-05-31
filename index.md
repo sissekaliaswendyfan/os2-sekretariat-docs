@@ -43,3 +43,21 @@ Den er især til dig, der arbejder med OS2 som sekretariat, produktkoordinator, 
 Er du landet det forkerte sted? Måske finder du den information du søger via vores hjemmeside: [wwww.os2.eu](https://www.os2.eu/)
 
 Du kan også kontakte OS2s centrale sekretariat via denne mail: os2@os2.eu
+
+## Kort om OS2-fællesskabet, formål og værdier
+
+**OS2 – Offentligt Digitaliseringsfællesskab** er et samarbejde mellem kommuner, regioner og statslige institutioner om at udvikle og dele digitale løsninger i fællesskab.  
+Det overordnede formål med foreningen er at udbrede kendskabet til og brugen af open source i den offentlige sektor samt sikre en fælles styringsmodel, der gør det muligt at dele teknologi, viden og ejerskab på tværs af myndigheder.
+
+Fællesskabet bygger på tre grundlæggende værdier:  
+- **Åbenhed** – alle resultater, kildekoder og beslutninger deles åbent for at skabe tillid og transparens.  
+- **Samarbejde** – løsninger udvikles i fællesskab ud fra reelle behov i det offentlige Danmark.  
+- **Ejerskab** – offentlige myndigheder bevarer ejerskab til kildekode, data og andre resultater gennem brug af open source-licenser.
+
+Som frivilligt, medlemsfinansieret fællesskab drives OS2 af en bestyrelse og et sekretariat, der understøtter projekter og produkter på tværs af myndigheder og fagområder.  
+Bestyrelsen har det strategiske ansvar for at sikre, at OS2’s projekter og produkter er behovsdrevne og værdiskabende for det offentlige. Dette udmøntes ved at sikre overensstemmelse med OS2’s styringsmodel.
+
+> **Læs mere i:**  
+> - *[OS2 organisering – Strand & Donslund rapport version 1.0](https://boks.os2.eu/s/Afco557gKpepLJa)*  
+> - *[Kommissorium for OS2’s bestyrelse v.1.0](https://boks.os2.eu/s/dKzT7k34m2sSTem)*  
+> - *[OS2 Vision, Mission og Strategi 2022](https://boks.os2.eu/s/MmWeim6cDFaHjK2)*
