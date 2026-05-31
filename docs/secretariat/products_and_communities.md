@@ -1,12 +1,13 @@
 ---
-title: Projekter, Produkter og fællesskaber
+title: Kort om projekter og produkter
 layout: default
 nav_order: 7
 has_toc: false
-nav_exclude: true
+nav_exclude: false
+parent: OS2-sekretariatet: Sådan arbejder vi
 ---
 
-# Kort om projekter, Produkter og fællesskaber
+# Kort om projekter og produkter 
 
 
 ## OS2’s produktportefølje {#portfolio}
