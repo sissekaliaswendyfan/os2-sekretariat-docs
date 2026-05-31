@@ -1,7 +1,8 @@
 ---
 title: Sekretariatets kommunikationsopgaver
 layout: default
-parent: Sådan arbejder vi i OS2-sekretariatet
+grand_parent: Sådan arbejder vi i OS2-sekretariatet
+parent: Kommunikation i OS2
 nav_order: 40
 ---
 
