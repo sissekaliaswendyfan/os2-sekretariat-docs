@@ -1,8 +1,8 @@
 ---
 title: Onboarding af nye medarbejdere
 layout: default
-parent: OS2-sekretariatet: Sådan arbejder vi
-nav_order: 20
+parent: Sådan arbejder vi i OS2-sekretariatet
+nav_order: 50
 has_children: true
 nav_exclude: true
 ---
