@@ -1,6 +1,8 @@
 ---
 title: Organisation og Roller
 layout: default
+parent: "OS2-sekretariatet: Sådan arbejder vi"
+has children: true
 nav_order: 3
 ---
 
