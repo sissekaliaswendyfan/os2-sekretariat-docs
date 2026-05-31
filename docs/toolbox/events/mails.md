@@ -11,10 +11,10 @@ has_toc: false
 
 Denne side viser, hvordan du opsætter **automatiske mails** til deltagere i et Odoo-event 📩
 
-Du lærer især:
-- ✅ hvordan du bruger mailskabeloner korrekt
-- 🧷 hvordan du undgår at ændre noget for andre events
-- 🔎 hvordan du sikrer, at eventet bruger *din* mail (og ikke en [GLOBAL]-skabelon)
+Du finder information om
+- hvordan du bruger mailskabeloner korrekt
+- hvordan du undgår at ændre noget for andre events
+- hvordan du sikrer, at eventet bruger *din* mail (og ikke en [GLOBAL]-skabelon)
 
 ---
 
@@ -29,14 +29,14 @@ Odoo er skabelon-baseret.
 
 ---
 
-## 🧠 Overblik: sådan fungerer mails i Odoo
+## Overblik: sådan fungerer mails i Odoo
 
-Der kan ligge tre forudoprettede mails på eventet (typisk ved tilmelding, 3 dage før og 1 time før).  
+Der vil være tre forudoprettede mails på eventet (typisk ved tilmelding, 3 dage før og 1 time før).  
 Vi anbefaler, at du **opretter dine egne mails** og **sletter [GLOBAL]-mails** på *dette* event bagefter. :contentReference[oaicite:1]{index=1}
 
 ---
 
-## 1) 🧭 Find fanen “Kommunikation”
+## 1) Find fanen “Kommunikation”
 
 1. Åbn dit event i Odoo
 2. Gå til fanen **Kommunikation** (nederst på event-siden)
@@ -45,7 +45,7 @@ Vi anbefaler, at du **opretter dine egne mails** og **sletter [GLOBAL]-mails** p
 
 ---
 
-## 2) 🧩 Vælg en skabelon og åbn den
+## 2) Vælg en skabelon og åbn den
 
 1. Vælg en skabelon i dropdown-menuen
 2. Hold musen over linjen
@@ -55,7 +55,7 @@ Nu er du inde i selve skabelonen.
 
 ---
 
-## 3) 📎 Duplikér skabelonen (så du må redigere)
+## 3) Duplikér skabelonen (så du må redigere)
 
 1. Øverst til højre ser du **Ny**-knappen og stien, fx:  
    `Arrangementer / [event-titel]`
@@ -67,7 +67,7 @@ Nu er du inde i selve skabelonen.
 
 ---
 
-## 4) ✍️ Ret mailens indhold
+## 4) Ret mailens indhold
 
 1. Klik på linjen med mailtitlen
 2. Klik på pilen **▶** for at åbne mailen
@@ -77,7 +77,7 @@ Du ser typisk fanerne:
 - **E-mail konfiguration**
 - **Opsætning**
 
-### ✅ Du skal kun rette i “Indhold”
+### Du skal kun rette i “Indhold”
 
 - Skriv teksten til deltageren
 - Brug `/` for formatering og dynamiske felter (fx deltagerens navn)
@@ -98,7 +98,7 @@ Her kan stå systemfelter om sprog (flettefelt), som ikke skal ændres.
 
 ---
 
-## 5) 🎯 Vælg den rigtige mail på eventet (meget vigtigt)
+## 5) Vælg den rigtige mail på eventet (meget vigtigt)
 
 Når du går tilbage til eventets backend:
 
@@ -106,11 +106,11 @@ Når du går tilbage til eventets backend:
 
 1. Find dropdown-menuen med mails på eventet (klik på den lille trekant)
 2. Find din nye mail i listen
-3. Vælg **din** mail ✅
+3. Vælg **din** mail 
 
 ---
 
-## 6) ⏱️ Indstil hvornår mailen sendes
+## 6) Indstil hvornår mailen sendes
 
 På mail-linjen indstiller du:
 
@@ -126,7 +126,7 @@ På mail-linjen indstiller du:
 
 ---
 
-## 7) 🗑️ Slet [GLOBAL]-mails (hvis du har lavet dine egne)
+## 7) Slet [GLOBAL]-mails (hvis du har lavet dine egne)
 
 Hvis du har oprettet dine egne mails, så slet de forudoprettede mails med **[GLOBAL]** på *dette event*.
 
@@ -134,7 +134,7 @@ Hvis du har oprettet dine egne mails, så slet de forudoprettede mails med **[GL
 
 ---
 
-## 🌐 Særligt for online events
+## Særligt for online events
 
 Ved online events skal du:
 - oprette mødet (fx Teams) uden for Odoo
@@ -143,6 +143,6 @@ Ved online events skal du:
 
 ---
 
-## 🤝 Brug for hjælp?
+## Brug for hjælp?
 
 Kontakt OS2-sekretariatet: **os2@os2.eu**
