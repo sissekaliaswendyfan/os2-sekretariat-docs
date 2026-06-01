@@ -1,5 +1,5 @@
 ---
-title: Håndbogen
+title: Start her
 layout: home
 nav_order: 1
 ---
@@ -7,8 +7,6 @@ nav_order: 1
 # OS2’s håndbog
 
 OS2’s håndbog er en fælles indgang til, hvordan vi arbejder i OS2.
-
-Håndbogen hjælper dig med at finde ud af, hvor du er i OS2-systemet, hvad der forventes af dig, og hvor du kan gå videre.
 
 Den er især til dig, der arbejder med OS2 som sekretariat, produktkoordinator, projektejer, styregruppe, kommune, leverandør eller samarbejdspartner.
 
