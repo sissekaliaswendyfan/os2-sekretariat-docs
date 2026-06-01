@@ -1,7 +1,7 @@
 ---
 title: "OS2-sekretariatet: Sådan arbejder vi"
 layout: default
-nav_order: 15
+nav_order: 22
 has_children: true
 ---
 

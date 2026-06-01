@@ -2,7 +2,7 @@
 title: Support
 layout: default
 parent: Fildeling
-grand_parent: Værktøjskasse til projekter og produkter
+grand_parent: Værktøjskasse
 nav_order: 80
 ---
 

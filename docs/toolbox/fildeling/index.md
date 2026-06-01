@@ -1,7 +1,7 @@
 ---
 title: Fildeling
 layout: default
-parent: Værktøjskasse til projekter og produkter
+parent: Værktøjskasse
 nav_order: 10
 has_toc: false
 has_children: true
